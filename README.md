@@ -38,6 +38,8 @@ Inspired by [Una](http://una.im/personal-goals-guide/) I'm open sourcing these g
 - [ ] Start drawing and / or painting again
 - [ ] Post some of my art online again
 - [ ] Review and clean up my old repos
+- [ ] Write code to streamline this process
+- [ ] Write code to automagically make a readable blog post update from this
 
 ### Backlog: Code Things I Want to Do/Play With
 1. Want to play with RabbitMQ
