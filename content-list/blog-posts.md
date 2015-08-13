@@ -1,5 +1,7 @@
 # Blog Posts to Read
 
+## Command Line
+- [X] [Embrace the terminal](http://una.im/embrace-the-terminal/)
 ## Fonts
 - [X] [So you need a typeface](http://fontfeed.com/archives/select-type-with-the-flowchart-so-you-need-a-typeface/)
 
