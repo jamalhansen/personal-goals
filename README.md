@@ -3,40 +3,38 @@ Personal Goals
 
 Personal goals made open source.
 
-Why? Spending the time to get shit done. I'm open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning.
+Inspired by [Una](http://una.im/personal-goals-guide/) I'm open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning.
 
-# Overarching Goals
-1. Contribute to Open Source
+# High level goals (for 2015ish)
+1. Work more with Open Source
 2. Write more blog posts
-3. Use _______ more
-4. Get better at _______
-5. Learn about _______
+3. Learn Python
+4. Teach my kids to code in Java
+5. Learn continuously
 6. Be kind
 
-# November 00, 2014
+# August 09, 2015
 
 ### This Week's Goal: Be Awesome.
 
 ## Things I'll Do This Week:
-- [x] Play with puppies
-- [ ] Watch 2 videos from my content list about ______
-- [ ] Write a blog post
-- [ ] Continue learning about narwhals
-- [ ] Create slides for my talk about music
-- [ ] Send Una a nice email (una.kravets@gmail.com)
+- [ ] Personalize these lists
 - [x] Read [this blog post](http://una.github.io/personal-goals-guide/)
 
 ### Things I'll Do This Month: November 2014
-- [ ] Read a book
-- [x] Create a website for my dog
-- [ ] Teach my dog how to fetch me beer
-- [ ] Build a castle out of cardboard
-- [ ] Submit a proposal for a thing
-- [ ] Come up with a new side project
+- [ ] Take a more active role with [Alamo Python Learners](http://www.meetup.com/Alamo-Python-Learners/)
+- [ ] Get my kids happily back to school
+- [ ] Draft my fantasy football team
+- [ ] Write CodeNewbie blog article
+- [ ] Add code to the new [Alamo Python Learners Github profile](https://github.com/alamo-python-learners).
 
 ### Backlog: Side Projects :)
-- [ ] Work on [my cool project I forgot about](http://google.com)
+- [ ] Work on [Knot-a-rumor](http://google.com)
+- [ ] Start drawing and / or painting again
+- [ ] Post some of my art online again
 
 ### Backlog: Code Things I Want to Do/Play With
-1. Create yeoman generator
-2. Build a robot that takes over the world
+1. Want to play with RabbitMQ
+2. Learn [Rust](https://www.rust-lang.org/)
+3. Learn [Clojure](http://clojure.org/)
+
