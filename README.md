@@ -27,11 +27,14 @@ Inspired by [Una](http://una.im/personal-goals-guide/) I'm open sourcing these g
 - [ ] Draft my fantasy football team
 - [ ] Write CodeNewbie blog article
 - [ ] Add code to the new [Alamo Python Learners Github profile](https://github.com/alamo-python-learners).
+- [ ] Code examples of concepts from Effective Python "in my own words"
+- [ ] Clean up code from Alamo Python Learner's meetup
 
 ### Backlog: Side Projects :)
-- [ ] Work on [Knot-a-rumor](http://google.com)
+- [ ] Work on [Knot-a-rumor](https://github.com/jamalhansen/knot-a-rumor)
 - [ ] Start drawing and / or painting again
 - [ ] Post some of my art online again
+- [ ] Review and clean up my old repos
 
 ### Backlog: Code Things I Want to Do/Play With
 1. Want to play with RabbitMQ
