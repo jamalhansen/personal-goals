@@ -53,3 +53,5 @@ Inspired by [Una](http://una.im/personal-goals-guide/) I'm open sourcing these g
 5. Create an interactive web art project with code and art
 6. Check out [Click](http://click.pocoo.org/4/)
 7. Check out [Pelican](http://blog.getpelican.com/)
+8. Be competent with CSS
+9. Check out codepen
