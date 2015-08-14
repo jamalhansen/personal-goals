@@ -17,6 +17,7 @@ Inspired by [Una](http://una.im/personal-goals-guide/) I'm open sourcing these g
 9. Meet more people interested in coding
 10. Knowledge share
 11. Be more active
+12. Read broadly and frequently
 
 # August 09, 2015
 
