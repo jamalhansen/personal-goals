@@ -20,6 +20,13 @@
 - [ ] [5 Elements of effective thinking](http://smile.amazon.com/5-Elements-Effective-Thinking-ebook/dp/B008JUVDUE/ref=sr_1_1)
 - [ ] [So good they can't ignore you](http://smile.amazon.com/Good-They-Cant-Ignore-You-ebook/dp/B0076DDBJ6/)
 - [ ] [How to be twice as smart](http://smile.amazon.com/How-Twice-Smart-Brainpower-Unleashing/dp/0134023471)
+- [ ] [Exploring ES6](http://exploringjs.com/)
 
+# Recommendations
+
+## Programming Practices
+
+* The Pragmatic Programmer
+* Refactoring 
 
 *[My Goodreads](https://www.goodreads.com/user/show/3331615-jamal)*
