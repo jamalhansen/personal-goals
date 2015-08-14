@@ -55,3 +55,4 @@ Inspired by [Una](http://una.im/personal-goals-guide/) I'm open sourcing these g
 7. Check out [Pelican](http://blog.getpelican.com/)
 8. Be competent with CSS
 9. Check out codepen
+10. Check out Redis
