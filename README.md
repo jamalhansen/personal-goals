@@ -56,3 +56,4 @@ Inspired by [Una](http://una.im/personal-goals-guide/) I'm open sourcing these g
 8. Be competent with CSS
 9. Check out codepen
 10. Check out Redis
+11. Check out and contribute to MDN (Mozilla Developer Network)
