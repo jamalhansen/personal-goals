@@ -23,7 +23,7 @@ Inspired by [Una](http://una.im/personal-goals-guide/) I'm open sourcing these g
 ### This Week's Goal: Be Awesome.
 
 ## Things I'll Do This Week:
-- [ ] Personalize these lists
+- [x] Personalize these lists
 - [x] Read [this blog post](http://una.github.io/personal-goals-guide/)
 
 ### Things I'll Do This Month: August 2015
@@ -34,6 +34,7 @@ Inspired by [Una](http://una.im/personal-goals-guide/) I'm open sourcing these g
 - [ ] Add code to the new [Alamo Python Learners Github profile](https://github.com/alamo-python-learners).
 - [ ] Code examples of concepts from Effective Python "in my own words"
 - [ ] Clean up code from Alamo Python Learner's meetup
+- [ ] Setup bash shortcuts for this
 
 ### Backlog: Side Projects
 - [ ] Work on [Knot-a-rumor](https://github.com/jamalhansen/knot-a-rumor)
