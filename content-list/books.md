@@ -16,6 +16,10 @@
 - [ ] Building Microservices
 - [X] The Non-Designer's Design Book
 - [X] Building and Testing with Gradle
+- [ ] [Mastery](http://smile.amazon.com/gp/product/B007V65PBK/ref=smi_www_rco2_go_smi_2147660602)
+- [ ] [5 Elements of effective thinking](http://smile.amazon.com/5-Elements-Effective-Thinking-ebook/dp/B008JUVDUE/ref=sr_1_1)
+- [ ] [So good they can't ignore you](http://smile.amazon.com/Good-They-Cant-Ignore-You-ebook/dp/B0076DDBJ6/)
+- [ ] [How to be twice as smart](http://smile.amazon.com/How-Twice-Smart-Brainpower-Unleashing/dp/0134023471)
 
 
 *[My Goodreads](https://www.goodreads.com/user/show/3331615-jamal)*

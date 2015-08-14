@@ -11,7 +11,10 @@
 - [ ]     Grouping with the group by clause
 - [ ]     Order by clause
 - [ ]     Having clause
+- [ ]     Writing a nested select clause (combine inner and outer sql)
 
+### SQL Thinking
+- [ ] Do not think in terms of building in steps, think in terms of describing a dataset.  Select Buildings, then wood buildings, then buildings made by you, then finally buildings made by you yesterday.
 
 # Programming
 - [ ] Where to start

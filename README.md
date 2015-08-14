@@ -15,6 +15,8 @@ Inspired by [Una](http://una.im/personal-goals-guide/) I'm open sourcing these g
 7. Learn to use vim
 8. Build an epic github streak
 9. Meet more people interested in coding
+10. Knowledge share
+11. Be more active
 
 # August 09, 2015
 
@@ -47,3 +49,5 @@ Inspired by [Una](http://una.im/personal-goals-guide/) I'm open sourcing these g
 3. Learn [Clojure](http://clojure.org/)
 4. Write an interactive book for people to learn to code with tests
 5. Create an interactive web art project with code and art
+6. Check out [Click](http://click.pocoo.org/4/)
+7. Check out [Pelican](http://blog.getpelican.com/)
