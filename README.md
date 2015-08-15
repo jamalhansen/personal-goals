@@ -28,8 +28,9 @@ I'm open sourcing these goals for accessibility across computers I use, transpar
 - [ ] Draft my fantasy football team
 - [X] Add code to the new [Alamo Python Learners Github profile](https://github.com/alamo-python-learners).
 - [ ] Clean up code from Alamo Python Learner's meetup
-- [ ] Update update error pages on my blog
+- [X] Update error pages on my blog
 - [ ] Jury duty
+- [ ] Teach my kids about object oriented code
 
 ### Things I'll Do Soon
 - [ ] Take a more active role with [Alamo Python Learners](http://www.meetup.com/Alamo-Python-Learners/)
