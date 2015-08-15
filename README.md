@@ -31,7 +31,7 @@ Inspired by [Una](http://una.im/personal-goals-guide/) I'm open sourcing these g
 - [ ] Take a more active role with [Alamo Python Learners](http://www.meetup.com/Alamo-Python-Learners/)
 - [ ] Get my kids happily back to school
 - [ ] Draft my fantasy football team
-- [ ] Write CodeNewbie blog article
+- [X] Write CodeNewbie blog article
 - [ ] Add code to the new [Alamo Python Learners Github profile](https://github.com/alamo-python-learners).
 - [ ] Code examples of concepts from Effective Python "in my own words"
 - [ ] Clean up code from Alamo Python Learner's meetup
