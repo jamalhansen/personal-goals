@@ -2,6 +2,8 @@
 
 ## Blogging
 - [X] [Moving to Pelican](http://arunrocks.com/moving-blogs-to-pelican/)
+- [X] [Generating static sites with Pelican](
+http://hackercodex.com/guide/pelican-static-site-generator-install/)
 
 ## Command Line
 - [X] [Embrace the terminal](http://una.im/embrace-the-terminal/)
