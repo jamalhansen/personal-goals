@@ -19,9 +19,9 @@ I'm open sourcing these goals for accessibility across computers I use, transpar
 11. Be more active
 12. Read broadly and frequently
 
-# August 09, 2015
+# August 2015
 
-### This Week's Goal: Be Awesome.
+*This Week's Goal: Be Awesome.*
 
 ## Things I'll Do This Week:
 - [ ] Get my kids happily back to school
