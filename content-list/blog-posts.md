@@ -4,6 +4,7 @@
 - [X] [Moving to Pelican](http://arunrocks.com/moving-blogs-to-pelican/)
 - [X] [Generating static sites with Pelican](
 http://hackercodex.com/guide/pelican-static-site-generator-install/)
+- [X] [Install and deploy a Pelican blog using Fabric](http://blog.osteel.me/posts/2015/02/24/install-and-deploy-a-pelican-blog-using-fabric-part-1-local-environment.html)
 
 ## Command Line
 - [X] [Embrace the terminal](http://una.im/embrace-the-terminal/)
