@@ -45,7 +45,7 @@ I'm open sourcing these goals for accessibility across computers I use, transpar
 - [ ] Review and clean up my old repos
 - [ ] Write code to streamline this process
 - [ ] Write code to automagically make a readable blog post update from this
-- [ ] Move blogs from Jekyll to Pelican
+- [X] Move blogs from Jekyll to Pelican
 
 ### Backlog: Code Things I Want to Do/Play With
 1. Want to play with RabbitMQ
