@@ -58,3 +58,21 @@ Inspired by [Una](http://una.im/personal-goals-guide/) I'm open sourcing these g
 9. Check out codepen
 10. Check out Redis
 11. Check out and contribute to MDN (Mozilla Developer Network)
+
+# Links
+
+* [Accomplishments](https://github.com/jamalhansen/personal-goals/tree/master/accomplishments)
+
+## Content
+
+* [Blog Posts](https://github.com/jamalhansen/personal-goals/blob/master/content-list/blog-posts.md)
+* [Books](https://github.com/jamalhansen/personal-goals/blob/master/content-list/books.md)
+* [Links](https://github.com/jamalhansen/personal-goals/blob/master/content-list/links.md)
+* [Podcasts](https://github.com/jamalhansen/personal-goals/blob/master/content-list/podcasts.md)
+* [Resources](https://github.com/jamalhansen/personal-goals/blob/master/content-list/resources.md)
+* [Slides](https://github.com/jamalhansen/personal-goals/blob/master/content-list/slides.md)
+* [Videos](https://github.com/jamalhansen/personal-goals/blob/master/content-list/videos.md)
+
+## Ideas
+
+* [Blog ideas](https://github.com/jamalhansen/personal-goals/blob/master/ideas/blog-ideas.md)
