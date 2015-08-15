@@ -1,9 +1,9 @@
 Personal Goals
 ==============
 
-Personal goals made open source.
+Personal goals made open source.  Inspired by [Una](http://una.im/personal-goals-guide/)
 
-Inspired by [Una](http://una.im/personal-goals-guide/) I'm open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning.
+I'm open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning.
 
 # High level goals (for 2015-ish)
 1. Work more with Open Source
@@ -26,6 +26,7 @@ Inspired by [Una](http://una.im/personal-goals-guide/) I'm open sourcing these g
 ## Things I'll Do This Week:
 - [x] Personalize these lists
 - [x] Read [this blog post](http://una.github.io/personal-goals-guide/)
+- [ ] Add links to sub pages
 
 ### Things I'll Do This Month: August 2015
 - [ ] Take a more active role with [Alamo Python Learners](http://www.meetup.com/Alamo-Python-Learners/)
