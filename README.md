@@ -26,7 +26,7 @@ I'm open sourcing these goals for accessibility across computers I use, transpar
 ## Things I'll Do This Week:
 - [ ] Get my kids happily back to school
 - [ ] Draft my fantasy football team
-- [ ] Add code to the new [Alamo Python Learners Github profile](https://github.com/alamo-python-learners).
+- [X] Add code to the new [Alamo Python Learners Github profile](https://github.com/alamo-python-learners).
 - [ ] Clean up code from Alamo Python Learner's meetup
 - [ ] Update update error pages on my blog
 - [ ] Jury duty
