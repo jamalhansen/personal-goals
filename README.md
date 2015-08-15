@@ -24,19 +24,15 @@ I'm open sourcing these goals for accessibility across computers I use, transpar
 ### This Week's Goal: Be Awesome.
 
 ## Things I'll Do This Week:
-- [x] Personalize these lists
-- [x] Read [this blog post](http://una.github.io/personal-goals-guide/)
-- [X] Add links to sub pages
+- [ ] Get my kids happily back to school
+- [ ] Draft my fantasy football team
+- [ ] Add code to the new [Alamo Python Learners Github profile](https://github.com/alamo-python-learners).
+- [ ] Clean up code from Alamo Python Learner's meetup
 
 ### Things I'll Do This Month: August 2015
 - [ ] Take a more active role with [Alamo Python Learners](http://www.meetup.com/Alamo-Python-Learners/)
-- [ ] Get my kids happily back to school
-- [ ] Draft my fantasy football team
-- [X] Write CodeNewbie blog article
-- [ ] Add code to the new [Alamo Python Learners Github profile](https://github.com/alamo-python-learners).
 - [ ] Code examples of concepts from Effective Python "in my own words"
-- [ ] Clean up code from Alamo Python Learner's meetup
-- [ ] Setup bash shortcuts for this
+- [X] Setup bash shortcuts for this
 
 ### Backlog: Side Projects
 - [ ] Work on [Knot-a-rumor](https://github.com/jamalhansen/knot-a-rumor)
@@ -45,7 +41,6 @@ I'm open sourcing these goals for accessibility across computers I use, transpar
 - [ ] Review and clean up my old repos
 - [ ] Write code to streamline this process
 - [ ] Write code to automagically make a readable blog post update from this
-- [X] Move blogs from Jekyll to Pelican
 
 ### Backlog: Code Things I Want to Do/Play With
 1. Want to play with RabbitMQ
