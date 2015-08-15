@@ -1,5 +1,8 @@
 # Blog Posts to Read
 
+## Blogging
+- [X] [Moving to Pelican](http://arunrocks.com/moving-blogs-to-pelican/)
+
 ## Command Line
 - [X] [Embrace the terminal](http://una.im/embrace-the-terminal/)
 ## Fonts
@@ -11,6 +14,9 @@
 ## Programming
 - [ ] [The twelve-factor app](http://12factor.net/)
 
+## CSS
+- [ ] [Cross browser debugging CSS](http://www.stubbornella.org/content/2012/05/02/cross-browser-debugging-css/)
+
 ## Python
 
 ### Deploys
@@ -20,4 +26,3 @@
 
 ### Testing
 - [ ] [Getting started testing](http://nedbatchelder.com/text/test0.html)
-
