@@ -26,7 +26,7 @@ I'm open sourcing these goals for accessibility across computers I use, transpar
 ## Things I'll Do This Week:
 - [x] Personalize these lists
 - [x] Read [this blog post](http://una.github.io/personal-goals-guide/)
-- [ ] Add links to sub pages
+- [X] Add links to sub pages
 
 ### Things I'll Do This Month: August 2015
 - [ ] Take a more active role with [Alamo Python Learners](http://www.meetup.com/Alamo-Python-Learners/)
