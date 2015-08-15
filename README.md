@@ -28,11 +28,15 @@ I'm open sourcing these goals for accessibility across computers I use, transpar
 - [ ] Draft my fantasy football team
 - [ ] Add code to the new [Alamo Python Learners Github profile](https://github.com/alamo-python-learners).
 - [ ] Clean up code from Alamo Python Learner's meetup
+- [ ] Update update error pages on my blog
+- [ ] Jury duty
 
-### Things I'll Do This Month: August 2015
+### Things I'll Do Soon
 - [ ] Take a more active role with [Alamo Python Learners](http://www.meetup.com/Alamo-Python-Learners/)
 - [ ] Code examples of concepts from Effective Python "in my own words"
 - [X] Setup bash shortcuts for this
+- [ ] Create a Python script to scrape the completed items from this file to an accomplishments file
+- [ ] Create a Python script to use the accomplishments file to generate a weekly update blog post on [JamalHansen.com](http://jamalhansen.com)
 
 ### Backlog: Side Projects
 - [ ] Work on [Knot-a-rumor](https://github.com/jamalhansen/knot-a-rumor)
