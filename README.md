@@ -60,6 +60,7 @@ I'm open sourcing these goals for accessibility across computers I use, transpar
 9. Check out codepen
 10. Check out Redis
 11. Check out and contribute to MDN (Mozilla Developer Network)
+12. Federated Wiki
 
 # Links
 
