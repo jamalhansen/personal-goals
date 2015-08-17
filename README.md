@@ -25,7 +25,7 @@ I'm open sourcing these goals for accessibility across computers I use, transpar
 
 ## Things I'll Do This Week:
 - [ ] Get my kids happily back to school
-- [ ] Draft my fantasy football team
+- [X] Draft my fantasy football team
 - [X] Add code to the new [Alamo Python Learners Github profile](https://github.com/alamo-python-learners).
 - [ ] Clean up code from Alamo Python Learner's meetup
 - [X] Update error pages on my blog
@@ -46,6 +46,7 @@ I'm open sourcing these goals for accessibility across computers I use, transpar
 - [ ] Review and clean up my old repos
 - [ ] Write code to streamline this process
 - [ ] Write code to automagically make a readable blog post update from this
+- [ ] Look through and clean out my old repos for stuff to clean up
 
 ### Backlog: Code Things I Want to Do/Play With
 1. Want to play with RabbitMQ

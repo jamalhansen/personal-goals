@@ -1,4 +1,4 @@
-# Books to Read
+# Books
 
 - [ ] Effective Python
 - [ ] [Test Driven Development with Python](http://obeythetestinggoat.com)

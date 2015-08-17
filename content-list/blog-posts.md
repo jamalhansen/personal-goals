@@ -1,4 +1,4 @@
-# Blog Posts to Read
+# Blog Posts
 
 ## Blogging
 - [X] [Moving to Pelican](http://arunrocks.com/moving-blogs-to-pelican/)
