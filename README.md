@@ -29,7 +29,7 @@ I'm open sourcing these goals for accessibility across computers I use, transpar
 - [X] Add code to the new [Alamo Python Learners Github profile](https://github.com/alamo-python-learners).
 - [ ] Clean up code from Alamo Python Learner's meetup
 - [X] Update error pages on my blog
-- [ ] Jury duty
+- [X] Jury duty
 - [ ] Teach my kids about object oriented code
 
 ### Things I'll Do Soon
