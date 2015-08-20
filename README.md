@@ -52,10 +52,10 @@ I'm open sourcing these goals for accessibility across computers I use, transpar
 1. Want to play with RabbitMQ
 2. Learn [Rust](https://www.rust-lang.org/)
 3. Learn [Clojure](http://clojure.org/)
-4. Write an interactive book for people to learn to code with tests
+4. Write an interactive book for people to learn to code with tests (Ruby Koan like?)
 5. Create an interactive web art project with code and art
 6. Check out [Click](http://click.pocoo.org/4/)
-7. Check out [Pelican](http://blog.getpelican.com/)
+- [X] Check out [Pelican](http://blog.getpelican.com/)
 8. Be competent with CSS
 9. Check out codepen
 10. Check out Redis
