@@ -63,6 +63,7 @@ I'm open sourcing these goals for accessibility across computers I use, transpar
 12. Federated Wiki
 13. [Plus One Me](http://plusoneme.com)
 14. Expand Iron Coder
+15. [Chore Wars](http://chorewars.com)
 
 # Links
 
