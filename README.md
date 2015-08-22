@@ -87,3 +87,4 @@ I'm open sourcing these goals for accessibility across computers I use, transpar
 ## Ideas
 
 * [Blog ideas](https://github.com/jamalhansen/personal-goals/blob/master/ideas/blog-ideas.md)
+* [Iron Coder](https://github.com/jamalhansen/personal-goals/blob/master/ideas/iron-coder.md)
