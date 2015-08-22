@@ -31,6 +31,7 @@ I'm open sourcing these goals for accessibility across computers I use, transpar
 - [X] Update error pages on my blog
 - [ ] Jury duty
 - [ ] Teach my kids about object oriented code
+- [ ] Write up a blog post on the [Python Thursday Page on CodeNewbie](http://www.codenewbie.org/team-projects/python-thursday-adventure)
 
 ### Things I'll Do Soon
 - [ ] Take a more active role with [Alamo Python Learners](http://www.meetup.com/Alamo-Python-Learners/)
