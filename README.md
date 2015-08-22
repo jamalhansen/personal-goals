@@ -24,23 +24,28 @@ I'm open sourcing these goals for accessibility across computers I use, transpar
 *This Week's Goal: Be Awesome.*
 
 ## Things I'll Do This Week:
-- [ ] Get my kids happily back to school
 - [X] Draft my fantasy football team
 - [X] Add code to the new [Alamo Python Learners Github profile](https://github.com/alamo-python-learners).
-- [ ] Clean up code from Alamo Python Learner's meetup
 - [X] Update error pages on my blog
 - [X] Jury duty
+- [ ] Get my kids happily back to school
+- [ ] Clean up code from Alamo Python Learner's meetup
 - [ ] Teach my kids about object oriented code
 - [ ] Write up a blog post on the [Python Thursday Page on CodeNewbie](http://www.codenewbie.org/team-projects/python-thursday-adventure)
+- [ ] Write my first passing unit tests for personal-goal-tools
 
 ### Things I'll Do Soon
+- [X] Setup bash shortcuts for this
+- [X] Check out [Pelican](http://blog.getpelican.com/)
 - [ ] Take a more active role with [Alamo Python Learners](http://www.meetup.com/Alamo-Python-Learners/)
 - [ ] Code examples of concepts from Effective Python "in my own words"
-- [X] Setup bash shortcuts for this
 - [ ] Create a Python script to scrape the completed items from this file to an accomplishments file
 - [ ] Create a Python script to use the accomplishments file to generate a weekly update blog post on [JamalHansen.com](http://jamalhansen.com)
+- [ ] Start a group coding Java project with my kids
+- [ ] Write up a rebase dance blog post
 
 ### Backlog: Side Projects
+- [ ] Expand Iron Coder
 - [ ] Work on [Knot-a-rumor](https://github.com/jamalhansen/knot-a-rumor)
 - [ ] Start drawing and / or painting again
 - [ ] Post some of my art online again
@@ -56,14 +61,12 @@ I'm open sourcing these goals for accessibility across computers I use, transpar
 4. Write an interactive book for people to learn to code with tests (Ruby Koan like?)
 5. Create an interactive web art project with code and art
 6. Check out [Click](http://click.pocoo.org/4/)
-- [X] Check out [Pelican](http://blog.getpelican.com/)
 8. Be competent with CSS
 9. Check out codepen
 10. Check out Redis
 11. Check out and contribute to MDN (Mozilla Developer Network)
 12. Federated Wiki
 13. [Plus One Me](http://plusoneme.com)
-14. Expand Iron Coder
 15. [Chore Wars](http://chorewars.com)
 
 # Links
