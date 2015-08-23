@@ -5,7 +5,7 @@ Personal goals made open source.  Inspired by [Una](http://una.im/personal-goals
 
 I'm open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning.
 
-# August 2015 week 4
+# August 2015 week 5
 
 ## Goals
 Short and long term goals go here, these are used to focus and drive forward my task list.
@@ -29,30 +29,29 @@ Short and long term goals go here, these are used to focus and drive forward my 
 13. Level up my bash skills
 
 ### Short Term Goals
-- [X] Prepare for my kids to go back to school
+- [ ] Have a smooth first week of school
+- [ ] Complete Couch Coach Challenge
+- [ ] Give intro talk with Alamo Python Learners
 
 ## Tasks
 
 ### To Do This Week:
-- [X] Draft my fantasy football team
-- [X] Add code to the new [Alamo Python Learners Github profile](https://github.com/alamo-python-learners).
-- [X] Update error pages on my blog
-- [X] Complete my Jury duty
+- [ ] Get week 1 of Couch Coach working
+- [ ] Get weeks 2-8 of Couch Coach working
+- [ ] Get alternate tracks of Couch Coach working
 - [ ] Get my kids happily back to school
 - [ ] Clean up code from Alamo Python Learner's meetup
-- [ ] Teach my kids about object oriented code
 - [ ] Write up a blog post on the [Python Thursday Page on CodeNewbie](http://www.codenewbie.org/team-projects/python-thursday-adventure)
-- [ ] Write my first passing unit tests for personal-goal-tools
 
 ### Things I'll Do Soon
-- [X] Setup bash shortcuts for this
-- [X] Check out [Pelican](http://blog.getpelican.com/)
 - [ ] Take a more active role with [Alamo Python Learners](http://www.meetup.com/Alamo-Python-Learners/)
 - [ ] Code examples of concepts from Effective Python "in my own words"
-- [ ] Create a Python script to scrape the completed items from this file to an accomplishments file
+- [ ] Create a new file with the checked off items from this list as the start of a weekly update blog post
 - [ ] Create a Python script to use the accomplishments file to generate a weekly update blog post on [JamalHansen.com](http://jamalhansen.com)
+- [ ] Automatically remove checked off items from this list weekly
 - [ ] Start a group coding Java project with my kids
 - [ ] Write up a rebase dance blog post
+- [ ] Teach my kids about object oriented code
 
 ### Back Burner
 

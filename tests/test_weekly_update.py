@@ -104,4 +104,11 @@ def test_strip_tail():
     for expected, actual in zip(expected_list, actual_list):
         assert expected == actual
 
+def test_valid_line():
+    assert False, 'need to implement'
 
+def test_is_whitespace():
+    assert False, 'need to implement'
+
+def test_checked_line():
+    assert False, 'need to implement'
