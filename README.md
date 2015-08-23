@@ -50,8 +50,10 @@ Short and long term goals go here, these are used to focus and drive forward my 
 - [ ] Create a Python script to use the accomplishments file to generate a weekly update blog post on [JamalHansen.com](http://jamalhansen.com)
 - [ ] Automatically remove checked off items from this list weekly
 - [ ] Start a group coding Java project with my kids
+- [ ] Get Lexxie interested in Python
 - [ ] Write up a rebase dance blog post
 - [ ] Teach my kids about object oriented code
+- [ ] Decide on another Saturday Discussion topic
 
 ### Back Burner
 
