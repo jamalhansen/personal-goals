@@ -13,16 +13,20 @@ Short and long term goals go here, these are used to focus and drive forward my 
 ### High Level Goals
 1. Work more with Open Source
 2. Write more blog posts
-3. Learn Python
-4. Teach my kids to code in Java
+- [X] Learn Python
+3. Level up my Python skills
+4. Teach my kids real world software developer skills
+4. Teach a programming language to all my kids
 5. Learn continuously
 6. Be kind
-7. Learn to use vim
+- [X] Learn to use vim
+7. Level up my vim skills
 8. Build an epic github streak
 9. Meet more people interested in coding
 10. Knowledge share
 11. Be more active
 12. Read broadly and frequently
+13. Level up my bash skills
 
 ### Short Term Goals
 - [X] Prepare for my kids to go back to school
