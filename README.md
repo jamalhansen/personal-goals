@@ -54,6 +54,7 @@ Short and long term goals go here, these are used to focus and drive forward my 
 - [ ] Write up a rebase dance blog post
 - [ ] Teach my kids about object oriented code
 - [ ] Decide on another Saturday Discussion topic
+- [ ] My personal goals workflowy blog post
 
 ### Back Burner
 
@@ -74,7 +75,7 @@ Short and long term goals go here, these are used to focus and drive forward my 
 4. Write an interactive book for people to learn to code with tests (Ruby Koan like?)
 5. Create an interactive web art project with code and art
 6. Check out [Click](http://click.pocoo.org/4/)
-8. Be competent with CSS
+8. Be competent with [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 9. Check out codepen
 10. Check out Redis
 11. Check out and contribute to MDN (Mozilla Developer Network)
