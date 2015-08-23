@@ -38,7 +38,7 @@ Short and long term goals go here, these are used to focus and drive forward my 
 - [ ] Clean up code from Alamo Python Learner's meetup
 - [ ] Teach my kids about object oriented code
 - [ ] Write up a blog post on the [Python Thursday Page on CodeNewbie](http://www.codenewbie.org/team-projects/python-thursday-adventure)
-- [ ] Write my first passing unit tests for personal-goal-tools
+- [x] Write my first passing unit tests for personal-goal-tools
 
 ### Things I'll Do Soon
 - [X] Setup bash shortcuts for this
