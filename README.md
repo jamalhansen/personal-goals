@@ -78,6 +78,7 @@ Short and long term goals go here, these are used to focus and drive forward my 
 14. [Runestone](http://runestoneinteractive.org/) interactive textbooks
 15. [Chore Wars](http://chorewars.com)
 16. Include [thumbnail photos](http://stackoverflow.com/questions/19274463/what-is-link-rel-image-src) on my blog
+17. Python Metaprogramming
 
 ## Links
 
@@ -96,3 +97,4 @@ Short and long term goals go here, these are used to focus and drive forward my 
 ## Ideas
 
 * [Blog ideas](https://github.com/jamalhansen/personal-goals/blob/master/ideas/blog-ideas.md)
+* [Iron Coder](https://github.com/jamalhansen/personal-goals/blob/master/ideas/iron-coder.md)
