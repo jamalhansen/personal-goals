@@ -55,6 +55,7 @@ Short and long term goals go here, these are used to focus and drive forward my 
 - [ ] Teach my kids about object oriented code
 - [ ] Decide on another Saturday Discussion topic
 - [ ] My personal goals workflowy blog post
+- [ ] [vim adventures](http://vim-adventures.com/)
 
 ### Back Burner
 
