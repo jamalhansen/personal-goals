@@ -28,6 +28,7 @@ Short and long term goals go here, these are used to focus and drive forward my 
 - [ ] Have a smooth first week of school
 - [ ] Complete Couch Coach Challenge
 - [ ] Give intro talk with Alamo Python Learners
+- [ ] Write a blog post on how to get started on Code Newbie Slack Channel
 
 ## Tasks
 
