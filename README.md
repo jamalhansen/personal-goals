@@ -5,7 +5,12 @@ Personal goals made open source.  Inspired by [Una](http://una.im/personal-goals
 
 I'm open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning.
 
-# High level goals (for 2015-ish)
+# August 2015 week 4
+
+## Goals
+Short and long term goals go here, these are used to focus and drive forward my task list.
+
+### High Level Goals
 1. Work more with Open Source
 2. Write more blog posts
 3. Learn Python
@@ -19,15 +24,16 @@ I'm open sourcing these goals for accessibility across computers I use, transpar
 11. Be more active
 12. Read broadly and frequently
 
-# August 2015
+### Short Term Goals
+- [X] Prepare for my kids to go back to school
 
-*This Week's Goal: Be Awesome.*
+## Tasks
 
-## Things I'll Do This Week:
+### To Do This Week:
 - [X] Draft my fantasy football team
 - [X] Add code to the new [Alamo Python Learners Github profile](https://github.com/alamo-python-learners).
 - [X] Update error pages on my blog
-- [X] Jury duty
+- [X] Complete my Jury duty
 - [ ] Get my kids happily back to school
 - [ ] Clean up code from Alamo Python Learner's meetup
 - [ ] Teach my kids about object oriented code
@@ -44,7 +50,9 @@ I'm open sourcing these goals for accessibility across computers I use, transpar
 - [ ] Start a group coding Java project with my kids
 - [ ] Write up a rebase dance blog post
 
-### Backlog: Side Projects
+### Back Burner
+
+#### Side Projects
 - [ ] Expand Iron Coder
 - [ ] Work on [Knot-a-rumor](https://github.com/jamalhansen/knot-a-rumor)
 - [ ] Start drawing and / or painting again
@@ -54,7 +62,7 @@ I'm open sourcing these goals for accessibility across computers I use, transpar
 - [ ] Write code to automagically make a readable blog post update from this
 - [ ] Look through and clean out my old repos for stuff to clean up
 
-### Backlog: Code Things I Want to Do/Play With
+## Cool Stuff to Check Out
 1. Want to play with RabbitMQ
 2. Learn [Rust](https://www.rust-lang.org/)
 3. Learn [Clojure](http://clojure.org/)
@@ -71,7 +79,7 @@ I'm open sourcing these goals for accessibility across computers I use, transpar
 15. [Chore Wars](http://chorewars.com)
 16. Include [thumbnail photos](http://stackoverflow.com/questions/19274463/what-is-link-rel-image-src) on my blog
 
-# Links
+## Links
 
 * [Accomplishments](https://github.com/jamalhansen/personal-goals/tree/master/accomplishments)
 
