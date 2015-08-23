@@ -42,6 +42,7 @@ Short and long term goals go here, these are used to focus and drive forward my 
 - [ ] Get my kids happily back to school
 - [ ] Clean up code from Alamo Python Learner's meetup
 - [ ] Write up a blog post on the [Python Thursday Page on CodeNewbie](http://www.codenewbie.org/team-projects/python-thursday-adventure)
+- [ ] Setup [OBS for Linux](http://m.webupd8.org/2015/06/how-to-stream-to-twitch-from-linux.html?m=1)
 
 ### Things I'll Do Soon
 - [ ] Take a more active role with [Alamo Python Learners](http://www.meetup.com/Alamo-Python-Learners/)
