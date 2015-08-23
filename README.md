@@ -13,16 +13,20 @@ Short and long term goals go here, these are used to focus and drive forward my 
 ### High Level Goals
 1. Work more with Open Source
 2. Write more blog posts
-3. Learn Python
-4. Teach my kids to code in Java
+- [X] Learn Python
+3. Level up my Python skills
+4. Teach my kids real world software developer skills
+4. Teach a programming language to all my kids
 5. Learn continuously
 6. Be kind
-7. Learn to use vim
+- [X] Learn to use vim
+7. Level up my vim skills
 8. Build an epic github streak
 9. Meet more people interested in coding
 10. Knowledge share
 11. Be more active
 12. Read broadly and frequently
+13. Level up my bash skills
 
 ### Short Term Goals
 - [ ] Have a smooth first week of school
@@ -39,6 +43,7 @@ Short and long term goals go here, these are used to focus and drive forward my 
 - [ ] Get my kids happily back to school
 - [ ] Clean up code from Alamo Python Learner's meetup
 - [ ] Write up a blog post on the [Python Thursday Page on CodeNewbie](http://www.codenewbie.org/team-projects/python-thursday-adventure)
+- [ ] Setup [OBS for Linux](http://m.webupd8.org/2015/06/how-to-stream-to-twitch-from-linux.html?m=1)
 
 ### Things I'll Do Soon
 - [ ] Take a more active role with [Alamo Python Learners](http://www.meetup.com/Alamo-Python-Learners/)
@@ -47,8 +52,12 @@ Short and long term goals go here, these are used to focus and drive forward my 
 - [ ] Create a Python script to use the accomplishments file to generate a weekly update blog post on [JamalHansen.com](http://jamalhansen.com)
 - [ ] Automatically remove checked off items from this list weekly
 - [ ] Start a group coding Java project with my kids
+- [ ] Get Lexxie interested in Python
 - [ ] Write up a rebase dance blog post
 - [ ] Teach my kids about object oriented code
+- [ ] Decide on another Saturday Discussion topic
+- [ ] My personal goals workflowy blog post
+- [ ] [vim adventures](http://vim-adventures.com/)
 
 ### Back Burner
 
@@ -69,7 +78,7 @@ Short and long term goals go here, these are used to focus and drive forward my 
 4. Write an interactive book for people to learn to code with tests (Ruby Koan like?)
 5. Create an interactive web art project with code and art
 6. Check out [Click](http://click.pocoo.org/4/)
-8. Be competent with CSS
+8. Be competent with [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 9. Check out codepen
 10. Check out Redis
 11. Check out and contribute to MDN (Mozilla Developer Network)
