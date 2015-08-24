@@ -41,6 +41,7 @@ Short and long term goals go here, these are used to focus and drive forward my 
 - [X] Get weeks 2-8 of Couch Coach working
 - [ ] Get alternate tracks of Couch Coach working
 - [X] Add random encouragement to Couch Coach (stretch goal)
+- [ ] Add some error checking to Couch Coach (stretch goal)
 - [X] Add [text to voice](http://code.activestate.com/recipes/578839-python-text-to-speech-with-pyttsx/) to Couch Coach (stretch goal)
 - [X] Get my kids happily back to school
 - [ ] Clean up code from Alamo Python Learner's meetup
@@ -57,8 +58,10 @@ Short and long term goals go here, these are used to focus and drive forward my 
 - [ ] Write up a rebase dance blog post
 - [ ] Teach my kids about object oriented code
 - [ ] Decide on another Saturday Discussion topic
-- [ ] My personal goals workflowy blog post
+- [ ] My personal goals workflow blog post
 - [ ] [vim adventures](http://vim-adventures.com/)
+- [ ] Write an about me page for my blog
+- [ ] Pick a new color scheme for my blog
 
 ### Back Burner
 
