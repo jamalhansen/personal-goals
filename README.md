@@ -44,7 +44,7 @@ Short and long term goals go here, these are used to focus and drive forward my 
 - [X] Add [text to voice](http://code.activestate.com/recipes/578839-python-text-to-speech-with-pyttsx/) to Couch Coach (stretch goal)
 - [X] Get my kids happily back to school
 - [ ] Clean up code from Alamo Python Learner's meetup
-- [ ] Write up a blog post on getting started with the [Python Thursday Page on CodeNewbie](http://www.codenewbie.org/team-projects/python-thursday-adventure)
+- [ ] Write up a blog post the new [Python Thursday Page on CodeNewbie.org](http://www.codenewbie.org/team-projects/python-thursday-adventure)
 
 ### Things I'll Do Soon
 - [ ] Take a more active role with [Alamo Python Learners](http://www.meetup.com/Alamo-Python-Learners/)
