@@ -48,6 +48,8 @@ Short and long term goals go here, these are used to focus and drive forward my 
 - [ ] Write up a blog post the new [Python Thursday Page on CodeNewbie.org](http://www.codenewbie.org/team-projects/python-thursday-adventure)
 - [ ] Write blog post on [@pragdave @CodeNewbies podcast](http://www.codenewbie.org/podcast/the-pragmatic-programmer-i)
 - [ ] Look into [octabuild](http://www.octabuild.ie/)
+- [ ] Look into cheap static site hosting options, gh pages
+- [ ] Look into catering sites
 
 ### Things I'll Do Soon
 - [ ] Take a more active role with [Alamo Python Learners](http://www.meetup.com/Alamo-Python-Learners/)
