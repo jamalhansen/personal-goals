@@ -37,13 +37,13 @@ Short and long term goals go here, these are used to focus and drive forward my 
 ## Tasks
 
 ### To Do This Week:
-- [ ] Get week 1 of Couch Coach working
-- [ ] Get weeks 2-8 of Couch Coach working
+- [X] Get week 1 of Couch Coach working
+- [X] Get weeks 2-8 of Couch Coach working
 - [ ] Get alternate tracks of Couch Coach working
+- [ ] Add [text to voice](http://code.activestate.com/recipes/578839-python-text-to-speech-with-pyttsx/) to Couch Coach (stretch goal)
 - [ ] Get my kids happily back to school
 - [ ] Clean up code from Alamo Python Learner's meetup
 - [ ] Write up a blog post on the [Python Thursday Page on CodeNewbie](http://www.codenewbie.org/team-projects/python-thursday-adventure)
-- [ ] Setup [OBS for Linux](http://m.webupd8.org/2015/06/how-to-stream-to-twitch-from-linux.html?m=1)
 
 ### Things I'll Do Soon
 - [ ] Take a more active role with [Alamo Python Learners](http://www.meetup.com/Alamo-Python-Learners/)
@@ -70,6 +70,7 @@ Short and long term goals go here, these are used to focus and drive forward my 
 - [ ] Write code to streamline this process
 - [ ] Write code to automagically make a readable blog post update from this
 - [ ] Look through and clean out my old repos for stuff to clean up
+- [ ] Setup [OBS for Linux](http://m.webupd8.org/2015/06/how-to-stream-to-twitch-from-linux.html?m=1) (having OpenGL version issues)
 
 ## Cool Stuff to Check Out
 1. Want to play with RabbitMQ
