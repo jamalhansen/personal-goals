@@ -66,6 +66,7 @@ Short and long term goals go here, these are used to focus and drive forward my 
 - [ ] [vim adventures](http://vim-adventures.com/)
 - [ ] Write an about me page for my blog
 - [ ] Pick a new color scheme for my blog
+- [ ] Use [Code Triage](http://www.codetriage.com/) to contribute to open source
 
 ### Back Burner
 
