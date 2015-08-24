@@ -46,6 +46,7 @@ Short and long term goals go here, these are used to focus and drive forward my 
 - [X] Get my kids happily back to school
 - [ ] Clean up code from Alamo Python Learner's meetup
 - [ ] Write up a blog post the new [Python Thursday Page on CodeNewbie.org](http://www.codenewbie.org/team-projects/python-thursday-adventure)
+- [ ] Write blog post on [@pragdave @CodeNewbies podcast](http://www.codenewbie.org/podcast/the-pragmatic-programmer-i)
 
 ### Things I'll Do Soon
 - [ ] Take a more active role with [Alamo Python Learners](http://www.meetup.com/Alamo-Python-Learners/)
