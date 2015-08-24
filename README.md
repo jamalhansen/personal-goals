@@ -40,6 +40,7 @@ Short and long term goals go here, these are used to focus and drive forward my 
 - [X] Get week 1 of Couch Coach working
 - [X] Get weeks 2-8 of Couch Coach working
 - [ ] Get alternate tracks of Couch Coach working
+- [ ] Add random encouragement to Couch Coach (stretch goal)
 - [ ] Add [text to voice](http://code.activestate.com/recipes/578839-python-text-to-speech-with-pyttsx/) to Couch Coach (stretch goal)
 - [ ] Get my kids happily back to school
 - [ ] Clean up code from Alamo Python Learner's meetup
