@@ -98,6 +98,7 @@ Short and long term goals go here, these are used to focus and drive forward my 
 15. [Chore Wars](http://chorewars.com)
 16. Include [thumbnail photos](http://stackoverflow.com/questions/19274463/what-is-link-rel-image-src) on my blog
 17. Python Metaprogramming
+18. Attend a tech conference
 
 ## Links
 
