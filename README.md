@@ -50,6 +50,7 @@ Short and long term goals go here, these are used to focus and drive forward my 
 - [ ] Look into [octabuild](http://www.octabuild.ie/)
 - [ ] Look into cheap static site hosting options, gh pages
 - [ ] Look into catering sites
+- [ ] Write blog post update on Couch Coach
 
 ### Things I'll Do Soon
 - [ ] Take a more active role with [Alamo Python Learners](http://www.meetup.com/Alamo-Python-Learners/)
