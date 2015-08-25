@@ -27,12 +27,14 @@ Short and long term goals go here, these are used to focus and drive forward my 
 11. Be more active
 12. Read broadly and frequently
 13. Level up my bash skills
+14. Get back up to date with HTML 5 and CSS 3
 
 ### Short Term Goals
 - [ ] Have a smooth first week of school
 - [X] Complete Couch Coach Challenge
 - [ ] Give [intro talk](https://github.com/alamo-python-learners/alamo-python-learners/blob/master/meetups/2015-08-25/README.md) with Alamo Python Learners
 - [ ] Write a blog post on how to get started on Code Newbie Slack Channel
+
 
 ## Tasks
 
@@ -63,6 +65,7 @@ Short and long term goals go here, these are used to focus and drive forward my 
 - [ ] Review my resume to keep it up to date
 - [ ] Shore up my Html 5 and Css 3 skills
 - [ ] Complete Markov Chains Ruby Quiz in Python
+- [ ] Read [Dive into Html 5](http://diveintohtml5.info)
 
 ### Back Burner
 
