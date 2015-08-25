@@ -31,7 +31,7 @@ Short and long term goals go here, these are used to focus and drive forward my 
 ### Short Term Goals
 - [ ] Have a smooth first week of school
 - [X] Complete Couch Coach Challenge
-- [ ] Give intro talk with Alamo Python Learners
+- [ ] Give [intro talk](https://github.com/alamo-python-learners/alamo-python-learners/blob/master/meetups/2015-08-25/README.md) with Alamo Python Learners
 - [ ] Write a blog post on how to get started on Code Newbie Slack Channel
 
 ## Tasks
