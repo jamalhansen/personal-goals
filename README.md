@@ -60,6 +60,7 @@ Short and long term goals go here, these are used to focus and drive forward my 
 - [ ] Write an about me page for my blog
 - [ ] Pick a new color scheme for my blog
 - [ ] Use [Code Triage](http://www.codetriage.com/) to contribute to open source
+- [ ] Review my resume to keep it up to date
 
 ### Back Burner
 
