@@ -37,11 +37,7 @@ Short and long term goals go here, these are used to focus and drive forward my 
 ## Tasks
 
 ### To Do This Week:
-- [X] Get week 1 of Couch Coach working
-- [X] Get weeks 2-8 of Couch Coach working
-- [X] Get alternate tracks of Couch Coach working
-- [X] Add random encouragement to Couch Coach (stretch goal)
-- [X] Add [text to voice](http://code.activestate.com/recipes/578839-python-text-to-speech-with-pyttsx/) to Couch Coach (stretch goal)
+- [X] Complete Couch Coach Challenge with voice
 - [X] Get my kids happily back to school
 - [X] Write up a blog post the new [Python Thursday Page on CodeNewbie.org](http://www.codenewbie.org/team-projects/python-thursday-adventure)
 - [X] Look into cheap static site hosting options, gh pages? yeah gh pages.
