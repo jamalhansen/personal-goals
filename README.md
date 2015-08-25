@@ -45,7 +45,7 @@ Short and long term goals go here, these are used to focus and drive forward my 
 - [X] Get my kids happily back to school
 - [ ] Write up a blog post the new [Python Thursday Page on CodeNewbie.org](http://www.codenewbie.org/team-projects/python-thursday-adventure)
 - [ ] Write blog post on [@pragdave @CodeNewbies podcast](http://www.codenewbie.org/podcast/the-pragmatic-programmer-i)
-- [ ] Look into [octabuild](http://www.octabuild.ie/)
+- [ ] Look into [octobuild](http://octobuild.com/)
 - [ ] Look into cheap static site hosting options, gh pages
 - [ ] Look into catering sites
 - [ ] Write blog post update on Couch Coach
