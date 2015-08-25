@@ -43,7 +43,7 @@ Short and long term goals go here, these are used to focus and drive forward my 
 - [X] Add random encouragement to Couch Coach (stretch goal)
 - [X] Add [text to voice](http://code.activestate.com/recipes/578839-python-text-to-speech-with-pyttsx/) to Couch Coach (stretch goal)
 - [X] Get my kids happily back to school
-- [ ] Write up a blog post the new [Python Thursday Page on CodeNewbie.org](http://www.codenewbie.org/team-projects/python-thursday-adventure)
+- [X] Write up a blog post the new [Python Thursday Page on CodeNewbie.org](http://www.codenewbie.org/team-projects/python-thursday-adventure)
 - [X] Look into cheap static site hosting options, gh pages? yeah gh pages.
 - [ ] Look into catering sites
 - [ ] Write blog post update on Couch Coach
