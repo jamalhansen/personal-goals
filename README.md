@@ -30,7 +30,7 @@ Short and long term goals go here, these are used to focus and drive forward my 
 
 ### Short Term Goals
 - [ ] Have a smooth first week of school
-- [ ] Complete Couch Coach Challenge
+- [X] Complete Couch Coach Challenge
 - [ ] Give intro talk with Alamo Python Learners
 - [ ] Write a blog post on how to get started on Code Newbie Slack Channel
 
@@ -39,12 +39,10 @@ Short and long term goals go here, these are used to focus and drive forward my 
 ### To Do This Week:
 - [X] Get week 1 of Couch Coach working
 - [X] Get weeks 2-8 of Couch Coach working
-- [ ] Get alternate tracks of Couch Coach working
+- [X] Get alternate tracks of Couch Coach working
 - [X] Add random encouragement to Couch Coach (stretch goal)
-- [ ] Add some error checking to Couch Coach (stretch goal)
 - [X] Add [text to voice](http://code.activestate.com/recipes/578839-python-text-to-speech-with-pyttsx/) to Couch Coach (stretch goal)
 - [X] Get my kids happily back to school
-- [ ] Clean up code from Alamo Python Learner's meetup
 - [ ] Write up a blog post the new [Python Thursday Page on CodeNewbie.org](http://www.codenewbie.org/team-projects/python-thursday-adventure)
 - [ ] Write blog post on [@pragdave @CodeNewbies podcast](http://www.codenewbie.org/podcast/the-pragmatic-programmer-i)
 - [ ] Look into [octabuild](http://www.octabuild.ie/)
@@ -55,7 +53,7 @@ Short and long term goals go here, these are used to focus and drive forward my 
 ### Things I'll Do Soon
 - [ ] Take a more active role with [Alamo Python Learners](http://www.meetup.com/Alamo-Python-Learners/)
 - [ ] Code examples of concepts from Effective Python "in my own words"
-- [ ] Create a new file with the checked off items from this list as the start of a weekly update blog post
+- [X] Create a new file with the checked off items from this list as the start of a weekly update blog post
 - [ ] Create a Python script to use the accomplishments file to generate a weekly update blog post on [JamalHansen.com](http://jamalhansen.com)
 - [ ] Automatically remove checked off items from this list weekly
 - [ ] Start a group coding Java project with my kids
@@ -77,7 +75,6 @@ Short and long term goals go here, these are used to focus and drive forward my 
 - [ ] Start drawing and / or painting again
 - [ ] Post some of my art online again
 - [ ] Review and clean up my old repos
-- [ ] Write code to streamline this process
 - [ ] Write code to automagically make a readable blog post update from this
 - [ ] Look through and clean out my old repos for stuff to clean up
 - [ ] Setup [OBS for Linux](http://m.webupd8.org/2015/06/how-to-stream-to-twitch-from-linux.html?m=1) (having OpenGL version issues)
