@@ -62,6 +62,8 @@ Short and long term goals go here, these are used to focus and drive forward my 
 - [ ] Use [Code Triage](http://www.codetriage.com/) to contribute to open source
 - [ ] Review my resume to keep it up to date
 - [ ] Shore up my Html 5 and Css 3 skills
+- [ ] Complete Markov Chains Ruby Quiz in Python
+
 ### Back Burner
 
 #### Side Projects
