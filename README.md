@@ -32,7 +32,7 @@ Short and long term goals go here, these are used to focus and drive forward my 
 ### Short Term Goals
 - [ ] Have a smooth first week of school
 - [X] Complete Couch Coach Challenge
-- [ ] Give [intro talk](https://github.com/alamo-python-learners/alamo-python-learners/blob/master/meetups/2015-08-25/README.md) with Alamo Python Learners
+- [X] Give [intro talk](https://github.com/alamo-python-learners/alamo-python-learners/blob/master/meetups/2015-08-25/README.md) with Alamo Python Learners
 - [ ] Write a blog post on how to get started on Code Newbie Slack Channel
 
 
@@ -47,13 +47,13 @@ Short and long term goals go here, these are used to focus and drive forward my 
 - [ ] Write blog post update on Couch Coach
 
 ### Things I'll Do Soon
-- [ ] Take a more active role with [Alamo Python Learners](http://www.meetup.com/Alamo-Python-Learners/)
+- [X] Take a more active role with [Alamo Python Learners](http://www.meetup.com/Alamo-Python-Learners/)
 - [ ] Code examples of concepts from Effective Python "in my own words"
 - [X] Create a new file with the checked off items from this list as the start of a weekly update blog post
 - [ ] Create a Python script to use the accomplishments file to generate a weekly update blog post on [JamalHansen.com](http://jamalhansen.com)
 - [ ] Automatically remove checked off items from this list weekly
 - [ ] Start a group coding Java project with my kids
-- [ ] Get Lexxie interested in Python
+- [X] Get Lexxie interested in Python
 - [ ] Write up a rebase dance blog post
 - [ ] Teach my kids about object oriented code
 - [ ] Decide on another Saturday Discussion topic
