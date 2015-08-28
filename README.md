@@ -65,7 +65,7 @@ Short and long term goals go here, these are used to focus and drive forward my 
 - [ ] Review my resume to keep it up to date
 - [ ] Shore up my Html 5 and Css 3 skills
 - [ ] Complete Markov Chains Ruby Quiz in Python
-- [ ] Read [Dive into Html 5](http://diveintohtml5.info)
+- [X] Read [Html 5: Up & Running](http://diveintohtml5.info)
 - [ ] Strip my blog down to bare basics and build HTML5 and CSS from the ground up
 
 ### Back Burner
