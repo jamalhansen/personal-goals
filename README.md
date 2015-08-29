@@ -5,64 +5,102 @@ Personal goals made open source.  Inspired by [Una](http://una.im/personal-goals
 
 I'm open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning.
 
-# High level goals (for 2015-ish)
+# August 2015 week 5
+
+## Goals
+Short and long term goals go here, these are used to focus and drive forward my task list.
+
+### High Level Goals
 1. Work more with Open Source
 2. Write more blog posts
-3. Learn Python
-4. Teach my kids to code in Java
+- [X] Learn Python
+3. Level up my Python skills
+4. Teach my kids real world software developer skills
+4. Teach a programming language to all my kids
 5. Learn continuously
 6. Be kind
-7. Learn to use vim
+- [X] Learn to use vim
+7. Level up my vim skills
 8. Build an epic github streak
 9. Meet more people interested in coding
 10. Knowledge share
 11. Be more active
 12. Read broadly and frequently
+13. Level up my bash skills
+14. Get back up to date with HTML 5 and CSS 3
 
-# August 2015
+### Short Term Goals
+- [ ] Have a smooth first week of school
+- [X] Complete Couch Coach Challenge
+- [X] Give [intro talk](https://github.com/alamo-python-learners/alamo-python-learners/blob/master/meetups/2015-08-25/README.md) with Alamo Python Learners
+- [ ] Write a blog post on how to get started on Code Newbie Slack Channel
 
-*This Week's Goal: Be Awesome.*
 
-## Things I'll Do This Week:
-- [ ] Get my kids happily back to school
-- [X] Draft my fantasy football team
-- [X] Add code to the new [Alamo Python Learners Github profile](https://github.com/alamo-python-learners).
-- [ ] Clean up code from Alamo Python Learner's meetup
-- [X] Update error pages on my blog
-- [X] Jury duty
-- [ ] Teach my kids about object oriented code
+## Tasks
+
+### To Do This Week:
+- [X] Complete Couch Coach Challenge with voice
+- [X] Get my kids happily back to school
+- [X] Write up a blog post the new [Python Thursday Page on CodeNewbie.org](http://www.codenewbie.org/team-projects/python-thursday-adventure)
+- [X] Look into cheap static site hosting options, gh pages? yeah gh pages.
+- [ ] Look into catering sites
+- [ ] Write blog post update on Couch Coach
 
 ### Things I'll Do Soon
-- [ ] Take a more active role with [Alamo Python Learners](http://www.meetup.com/Alamo-Python-Learners/)
+- [X] Take a more active role with [Alamo Python Learners](http://www.meetup.com/Alamo-Python-Learners/)
 - [ ] Code examples of concepts from Effective Python "in my own words"
-- [X] Setup bash shortcuts for this
-- [ ] Create a Python script to scrape the completed items from this file to an accomplishments file
+- [X] Create a new file with the checked off items from this list as the start of a weekly update blog post
 - [ ] Create a Python script to use the accomplishments file to generate a weekly update blog post on [JamalHansen.com](http://jamalhansen.com)
+- [ ] Automatically remove checked off items from this list weekly
+- [ ] Start a group coding Java project with my kids
+- [X] Get Lexxie interested in Python
+- [ ] Write up a rebase dance blog post
+- [ ] Teach my kids about object oriented code
+- [ ] Decide on another Saturday Discussion topic
+- [ ] My personal goals workflow blog post
+- [ ] [vim adventures](http://vim-adventures.com/)
+- [ ] Write an about me page for my blog
+- [ ] Pick a new color scheme for my blog
+- [ ] Use [Code Triage](http://www.codetriage.com/) to contribute to open source
+- [ ] Review my resume to keep it up to date
+- [ ] Shore up my Html 5 and Css 3 skills
+- [ ] Complete Markov Chains Ruby Quiz in Python
+- [X] Read [Html 5: Up & Running](http://diveintohtml5.info)
+- [ ] Strip my blog down to bare basics and build HTML5 and CSS from the ground up
 
-### Backlog: Side Projects
+### Back Burner
+
+#### Side Projects
+- [ ] Expand Iron Coder
 - [ ] Work on [Knot-a-rumor](https://github.com/jamalhansen/knot-a-rumor)
 - [ ] Start drawing and / or painting again
 - [ ] Post some of my art online again
 - [ ] Review and clean up my old repos
-- [ ] Write code to streamline this process
 - [ ] Write code to automagically make a readable blog post update from this
 - [ ] Look through and clean out my old repos for stuff to clean up
+- [ ] Setup [OBS for Linux](http://m.webupd8.org/2015/06/how-to-stream-to-twitch-from-linux.html?m=1) (having OpenGL version issues)
+- [ ] Read Understanding comics
 
-### Backlog: Code Things I Want to Do/Play With
+## Cool Stuff to Check Out
 1. Want to play with RabbitMQ
 2. Learn [Rust](https://www.rust-lang.org/)
 3. Learn [Clojure](http://clojure.org/)
 4. Write an interactive book for people to learn to code with tests (Ruby Koan like?)
 5. Create an interactive web art project with code and art
 6. Check out [Click](http://click.pocoo.org/4/)
-- [X] Check out [Pelican](http://blog.getpelican.com/)
-8. Be competent with CSS
+8. Be competent with [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 9. Check out codepen
 10. Check out Redis
 11. Check out and contribute to MDN (Mozilla Developer Network)
 12. Federated Wiki
+13. [Plus One Me](http://plusoneme.com)
+14. [Runestone](http://runestoneinteractive.org/) interactive textbooks
+15. [Chore Wars](http://chorewars.com)
+16. Include [thumbnail photos](http://stackoverflow.com/questions/19274463/what-is-link-rel-image-src) on my blog
+17. Python Metaprogramming
+18. Attend a tech conference
 
-# Links
+## Links
 
 * [Accomplishments](https://github.com/jamalhansen/personal-goals/tree/master/accomplishments)
 
@@ -79,3 +117,4 @@ I'm open sourcing these goals for accessibility across computers I use, transpar
 ## Ideas
 
 * [Blog ideas](https://github.com/jamalhansen/personal-goals/blob/master/ideas/blog-ideas.md)
+* [Iron Coder](https://github.com/jamalhansen/personal-goals/blob/master/ideas/iron-coder.md)
