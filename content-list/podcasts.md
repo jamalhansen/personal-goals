@@ -13,6 +13,8 @@
 
 - [X] CodeNewbie 17 [Scott Hanselman - Getting Involved](http://www.codenewbie.org/podcast/getting-involved)
 
+### Testing
 
+- [X] CodeNewbie 14 [Noel Rapping - On Testing](http://www.codenewbie.org/podcast/on-testing)
 
 ## Shows
