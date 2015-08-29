@@ -30,7 +30,7 @@ Short and long term goals go here, these are used to focus and drive forward my 
 14. Get back up to date with HTML 5 and CSS 3
 
 ### Short Term Goals
-- [ ] Have a smooth first week of school
+- [X] Have a smooth first week of school
 - [X] Complete Couch Coach Challenge
 - [X] Give [intro talk](https://github.com/alamo-python-learners/alamo-python-learners/blob/master/meetups/2015-08-25/README.md) with Alamo Python Learners
 - [ ] Write a blog post on how to get started on Code Newbie Slack Channel
@@ -60,13 +60,13 @@ Short and long term goals go here, these are used to focus and drive forward my 
 - [ ] My personal goals workflow blog post
 - [ ] [vim adventures](http://vim-adventures.com/)
 - [ ] Write an about me page for my blog
-- [ ] Pick a new color scheme for my blog
 - [ ] Use [Code Triage](http://www.codetriage.com/) to contribute to open source
 - [ ] Review my resume to keep it up to date
 - [ ] Shore up my Html 5 and Css 3 skills
 - [ ] Complete Markov Chains Ruby Quiz in Python
 - [X] Read [Html 5: Up & Running](http://diveintohtml5.info)
-- [ ] Strip my blog down to bare basics and build HTML5 and CSS from the ground up
+- [X] Strip my blog down to bare basic style
+- [ ] Restyle my blog and manually build it with HTML5 and CSS from the ground up
 
 ### Back Burner
 
