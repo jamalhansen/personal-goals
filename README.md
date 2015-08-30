@@ -68,6 +68,11 @@ Short and long term goals go here, these are used to focus and drive forward my 
 - [X] Read [Html 5: Up & Running](http://diveintohtml5.info)
 - [ ] Strip my blog down to bare basics and build HTML5 and CSS from the ground up
 
+### Iron Coder
+
+- [ ] Look through [interview cake](https://www.interviewcake.com/)
+- [ ] Look through [code kata](http://codekata.com/)
+
 ### Back Burner
 
 #### Side Projects
