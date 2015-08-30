@@ -5,7 +5,7 @@ Personal goals made open source.  Inspired by [Una](http://una.im/personal-goals
 
 I'm open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning.
 
-# August 2015 week 5
+# September 2015 week 1
 
 ## Goals
 Short and long term goals go here, these are used to focus and drive forward my task list.
@@ -13,13 +13,11 @@ Short and long term goals go here, these are used to focus and drive forward my 
 ### High Level Goals
 1. Work more with Open Source
 2. Write more blog posts
-- [X] Learn Python
 3. Level up my Python skills
 4. Teach my kids real world software developer skills
 4. Teach a programming language to all my kids
 5. Learn continuously
 6. Be kind
-- [X] Learn to use vim
 7. Level up my vim skills
 8. Build an epic github streak
 9. Meet more people interested in coding
@@ -28,32 +26,22 @@ Short and long term goals go here, these are used to focus and drive forward my 
 12. Read broadly and frequently
 13. Level up my bash skills
 14. Get back up to date with HTML 5 and CSS 3
+15. Build Iron Coder Project
 
 ### Short Term Goals
-- [X] Have a smooth first week of school
-- [X] Complete Couch Coach Challenge
-- [X] Give [intro talk](https://github.com/alamo-python-learners/alamo-python-learners/blob/master/meetups/2015-08-25/README.md) with Alamo Python Learners
-- [ ] Write a blog post on how to get started on Code Newbie Slack Channel
-
+- [ ] Define and document the goals and milestones for Iron Coder
 
 ## Tasks
 
 ### To Do This Week:
-- [X] Complete Couch Coach Challenge with voice
-- [X] Get my kids happily back to school
-- [X] Write up a blog post the new [Python Thursday Page on CodeNewbie.org](http://www.codenewbie.org/team-projects/python-thursday-adventure)
-- [X] Look into cheap static site hosting options, gh pages? yeah gh pages.
 - [ ] Look into catering sites
 - [ ] Write blog post update on Couch Coach
 
 ### Things I'll Do Soon
-- [X] Take a more active role with [Alamo Python Learners](http://www.meetup.com/Alamo-Python-Learners/)
 - [ ] Code examples of concepts from Effective Python "in my own words"
-- [X] Create a new file with the checked off items from this list as the start of a weekly update blog post
 - [ ] Create a Python script to use the accomplishments file to generate a weekly update blog post on [JamalHansen.com](http://jamalhansen.com)
 - [ ] Automatically remove checked off items from this list weekly
 - [ ] Start a group coding Java project with my kids
-- [X] Get Lexxie interested in Python
 - [ ] Write up a rebase dance blog post
 - [ ] Teach my kids about object oriented code
 - [ ] Decide on another Saturday Discussion topic
@@ -64,8 +52,6 @@ Short and long term goals go here, these are used to focus and drive forward my 
 - [ ] Review my resume to keep it up to date
 - [ ] Shore up my Html 5 and Css 3 skills
 - [ ] Complete Markov Chains Ruby Quiz in Python
-- [X] Read [Html 5: Up & Running](http://diveintohtml5.info)
-- [X] Strip my blog down to bare basic style
 - [ ] Restyle my blog and manually build it with HTML5 and CSS from the ground up
 
 ### Iron Coder
