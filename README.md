@@ -58,6 +58,8 @@ Short and long term goals go here, these are used to focus and drive forward my 
 
 - [ ] Look through [interview cake](https://www.interviewcake.com/)
 - [ ] Look through [code kata](http://codekata.com/)
+- [ ] Look through [Project Euler](https://projecteuler.net/)
+
 
 ### Back Burner
 
