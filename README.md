@@ -29,11 +29,14 @@ Short and long term goals go here, these are used to focus and drive forward my 
 15. Build Iron Coder Project
 
 ### Short Term Goals
-- [ ] Define and document the goals and milestones for Iron Coder
+- [ ] Launch Iron Coder
 
 ## Tasks
 
-### To Do This Week:
+### To Do This Week
+- [ ] Writeup short, longer document on Iron Coder
+- [ ] Writeup short, longer document on first Iron Coder Challenge 
+- [ ] Look into ways to best capture knowledge gained from Iron Coder
 - [ ] Look into catering sites
 - [ ] Write blog post update on Couch Coach
 
@@ -45,7 +48,7 @@ Short and long term goals go here, these are used to focus and drive forward my 
 - [ ] Write up a rebase dance blog post
 - [ ] Teach my kids about object oriented code
 - [ ] Decide on another Saturday Discussion topic
-- [ ] My personal goals workflow blog post
+- [ ] My personal goals workflow blog post 
 - [ ] [vim adventures](http://vim-adventures.com/)
 - [ ] Write an about me page for my blog
 - [ ] Use [Code Triage](http://www.codetriage.com/) to contribute to open source
@@ -60,12 +63,13 @@ Short and long term goals go here, these are used to focus and drive forward my 
 - [ ] Look through [interview cake](https://www.interviewcake.com/)
 - [ ] Look through [code kata](http://codekata.com/)
 - [ ] Look through [Project Euler](https://projecteuler.net/)
+- [ ] Build a list of coding challenges
 
 
 ### Back Burner
 
 #### Side Projects
-- [ ] Expand Iron Coder
+- [X] Expand Iron Coder
 - [ ] Work on [Knot-a-rumor](https://github.com/jamalhansen/knot-a-rumor)
 - [ ] Start drawing and / or painting again
 - [ ] Post some of my art online again
