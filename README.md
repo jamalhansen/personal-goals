@@ -58,6 +58,7 @@ Short and long term goals go here, these are used to focus and drive forward my 
 - [ ] Restyle my blog and manually build it with HTML5 and CSS from the ground up
 - [ ] Look through [animation and css-tricks](https://css-tricks.com/almanac/properties/a/animation/)
 - [ ] Look at the hangouts API to see how difficult it would be to create an On Air Hangout attendance taking tool
+- [ ] Learn me some [flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ### Iron Coder
 
