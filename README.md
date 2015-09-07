@@ -34,9 +34,6 @@ Short and long term goals go here, these are used to focus and drive forward my 
 ## Tasks
 
 ### To Do This Week
-- [X] Writeup short, longer document on Iron Coder
-- [X] Writeup short, longer document on first Iron Coder Challenge 
-- [X] Look into ways to best capture knowledge gained from Iron Coder
 - [ ] Look into catering sites
 - [ ] Write blog post update on Couch Coach
 
@@ -48,7 +45,7 @@ Short and long term goals go here, these are used to focus and drive forward my 
 - [ ] Write up a rebase dance blog post
 - [ ] Teach my kids about object oriented code
 - [ ] Decide on another Saturday Discussion topic
-- [ ] My personal goals workflow blog post 
+- [ ] My personal goals workflow blog post
 - [ ] [vim adventures](http://vim-adventures.com/)
 - [ ] Write an about me page for my blog
 - [ ] Use [Code Triage](http://www.codetriage.com/) to contribute to open source
@@ -71,14 +68,12 @@ Short and long term goals go here, these are used to focus and drive forward my 
 ### Back Burner
 
 #### Side Projects
-- [X] Expand Iron Coder
 - [ ] Work on [Knot-a-rumor](https://github.com/jamalhansen/knot-a-rumor)
 - [ ] Start drawing and / or painting again
 - [ ] Post some of my art online again
 - [ ] Review and clean up my old repos
 - [ ] Write code to automagically make a readable blog post update from this
 - [ ] Look through and clean out my old repos for stuff to clean up
-- [X] Setup [OBS for Linux](http://m.webupd8.org/2015/06/how-to-stream-to-twitch-from-linux.html?m=1) (having OpenGL version issues)
 - [ ] Read Understanding comics
 
 ## Cool Stuff to Check Out
