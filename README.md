@@ -89,6 +89,7 @@ Short and long term goals go here, these are used to focus and drive forward my 
 - [ ] Write code to automagically make a readable blog post update from this
 - [ ] Look through and clean out my old repos for stuff to clean up
 - [ ] Read Understanding comics
+- [ ] Do something with [Processing.py](http://py.processing.org/)
 
 ## Cool Stuff to Check Out
 1. Want to play with RabbitMQ
