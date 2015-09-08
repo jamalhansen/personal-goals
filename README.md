@@ -38,6 +38,7 @@ Short and long term goals go here, these are used to focus and drive forward my 
 14. Read 10 non-fiction books
 15. Learn [Clojure](http://clojure.org/)
 16. Post some of my art online again
+17. Make a project that combines art with technology
 
 ### Short Term Goals
 - [ ] Transition out of my lead role in SQL Training
@@ -84,18 +85,17 @@ Short and long term goals go here, these are used to focus and drive forward my 
 
 #### Side Projects
 - [ ] Work on [Knot-a-rumor](https://github.com/jamalhansen/knot-a-rumor)
-- [ ] Start drawing and / or painting again
-- [ ] Review and clean up my old repos
+- [ ] Make art
 - [ ] Write code to automagically make a readable blog post update from this
 - [ ] Look through and clean out my old repos for stuff to clean up
 - [ ] Read Understanding comics
 - [ ] Do something with [Processing.py](http://py.processing.org/)
+- [ ] Write a book
 
 ## Cool Stuff to Check Out
 1. Want to play with RabbitMQ
 2. Learn [Rust](https://www.rust-lang.org/)
 4. Write an interactive book for people to learn to code with tests (Ruby Koan like?)
-5. Create an interactive web art project with code and art
 6. Check out [Click](http://click.pocoo.org/4/)
 9. Check out codepen
 10. Check out Redis
