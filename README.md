@@ -76,7 +76,7 @@ Short and long term goals go here, these are used to focus and drive forward my 
 - [ ] Review and clean up my old repos
 - [ ] Write code to automagically make a readable blog post update from this
 - [ ] Look through and clean out my old repos for stuff to clean up
-- [ ] Setup [OBS for Linux](http://m.webupd8.org/2015/06/how-to-stream-to-twitch-from-linux.html?m=1) (having OpenGL version issues)
+- [X] Setup [OBS for Linux](http://m.webupd8.org/2015/06/how-to-stream-to-twitch-from-linux.html?m=1) (having OpenGL version issues)
 - [ ] Read Understanding comics
 
 ## Cool Stuff to Check Out
