@@ -5,7 +5,7 @@ Personal goals made open source.  Inspired by [Una](http://una.im/personal-goals
 
 I'm open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning.
 
-# September 2015 week 1
+# September 2015 week 2
 
 ## Goals
 Short and long term goals go here, these are used to focus and drive forward my task list.
