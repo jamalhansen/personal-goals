@@ -5,7 +5,7 @@ Personal goals made open source.  Inspired by [Una](http://una.im/personal-goals
 
 I am open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning.
 
-# September 2015 week 2
+# September 2015 week 3
 
 ## Goals
 Short and long term goals go here, these are used to focus and drive forward my task list.
@@ -38,11 +38,20 @@ Short and long term goals go here, these are used to focus and drive forward my 
 - [ ] Transition out of my lead role in Python Training
 - [ ] Build up a checklist and 'productionalize' weekly Iron Coder work
 - [ ] Enjoy week 1 of the NFL season
+<<<<<<< HEAD
 - [ ] Wrap up my 2015 goals
+=======
+- [X] Wrap up my 2015 goals
+- [X] Create a list of my 2016 goals
+>>>>>>> fc8fe6770041b8013db79f37d495bd3b24769e0a
 
 ## Tasks
 
 ### To Do This Week
+<<<<<<< HEAD
+=======
+- [X] Launch Iron Coder
+>>>>>>> fc8fe6770041b8013db79f37d495bd3b24769e0a
 
 ### Things I Will Do Soon
 - [ ] Code examples of concepts from Effective Python "in my own words"
@@ -69,7 +78,6 @@ Short and long term goals go here, these are used to focus and drive forward my 
 - [ ] Look through [code kata](http://codekata.com/)
 - [ ] Look through [Project Euler](https://projecteuler.net/)
 - [ ] Build a list of coding challenges
-
 
 ### Back Burner
 
