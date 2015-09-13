@@ -14,6 +14,38 @@ Short and long term goals go here, these are used to focus and drive forward my 
 1. Build up the Iron Coder Project
 2. Have a joyful Holiday Season
 
+
+### Short Term Goals
+- [ ] Transition out of my lead role in SQL Training
+- [ ] Transition out of my lead role in Python Training
+- [ ] Build up a checklist and 'productionalize' weekly Iron Coder work
+- [X] Enjoy week 1 of the NFL season
+
+## Tasks
+
+### To Do This Week
+
+
+### Iron Coder
+
+- [ ] Look through [interview cake](https://www.interviewcake.com/)
+- [ ] Look through [code kata](http://codekata.com/)
+- [ ] Look through [Project Euler](https://projecteuler.net/)
+- [ ] Build a list of coding challenges
+
+### Things I Will Do Soon
+- [ ] Create a Python script to use the accomplishments file to generate a weekly update blog post on [JamalHansen.com](http://jamalhansen.com)
+- [ ] Automatically remove checked off items from this list weekly
+- [ ] Write up a rebase dance blog post
+- [ ] My personal goals workflow blog post
+- [ ] [vim adventures](http://vim-adventures.com/)
+- [ ] Write an about me page for my blog
+- [ ] Use [Code Triage](http://www.codetriage.com/) to contribute to open source
+- [ ] Review my resume to keep it up to date
+- [ ] Complete Markov Chains Ruby Quiz in Python
+- [ ] Restyle my blog and manually build it with HTML5 and CSS from the ground up
+- [ ] Look at the hangouts API to see how difficult it would be to create an On Air Hangout attendance taking tool
+
 ### 2016 Goals
 1. Write 2 blog posts a week
 2. Contribute to an open source project
@@ -25,50 +57,13 @@ Short and long term goals go here, these are used to focus and drive forward my 
 8. Be kind
 9. Build an epic github streak (@ 31 days)
 10. Level up my bash skills
-11. Gain experience and competence with [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+11. Gain experience and competence with [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) and [CSS tricks](http://css-tricks.com)
 12. Attend a technical conference
 13. Transition from walking to jogging
 14. Read 10 non-fiction books
 15. Learn [Clojure](http://clojure.org/)
 16. Post some of my art online again
-17. Make a project that combines art with technology
-
-### Short Term Goals
-- [ ] Transition out of my lead role in SQL Training
-- [ ] Transition out of my lead role in Python Training
-- [ ] Build up a checklist and 'productionalize' weekly Iron Coder work
-- [ ] Enjoy week 1 of the NFL season
-
-## Tasks
-
-### To Do This Week
-
-
-### Things I Will Do Soon
-- [ ] Code examples of concepts from Effective Python "in my own words"
-- [ ] Create a Python script to use the accomplishments file to generate a weekly update blog post on [JamalHansen.com](http://jamalhansen.com)
-- [ ] Automatically remove checked off items from this list weekly
-- [ ] Write up a rebase dance blog post
-- [ ] Teach my kids about object oriented code
-- [ ] Decide on another Saturday Discussion topic
-- [ ] My personal goals workflow blog post
-- [ ] [vim adventures](http://vim-adventures.com/)
-- [ ] Write an about me page for my blog
-- [ ] Use [Code Triage](http://www.codetriage.com/) to contribute to open source
-- [ ] Review my resume to keep it up to date
-- [ ] Complete Markov Chains Ruby Quiz in Python
-- [ ] Restyle my blog and manually build it with HTML5 and CSS from the ground up
-- [ ] Look through [animation and css-tricks](https://css-tricks.com/almanac/properties/a/animation/)
-- [ ] Look at the hangouts API to see how difficult it would be to create an On Air Hangout attendance taking tool
-- [ ] Learn me some [flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [ ] Look into catering sites
-
-### Iron Coder
-
-- [ ] Look through [interview cake](https://www.interviewcake.com/)
-- [ ] Look through [code kata](http://codekata.com/)
-- [ ] Look through [Project Euler](https://projecteuler.net/)
-- [ ] Build a list of coding challenges
+17. Indexcards 2.0
 
 ### Back Burner
 
@@ -84,7 +79,6 @@ Short and long term goals go here, these are used to focus and drive forward my 
 ## Cool Stuff to Check Out
 1. Want to play with RabbitMQ
 2. Learn [Rust](https://www.rust-lang.org/)
-4. Write an interactive book for people to learn to code with tests (Ruby Koan like?)
 6. Check out [Click](http://click.pocoo.org/4/)
 9. Check out codepen
 10. Check out Redis
