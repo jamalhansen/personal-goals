@@ -3,7 +3,7 @@ Personal Goals
 
 Personal goals made open source.  Inspired by [Una](http://una.im/personal-goals-guide/)
 
-I'm open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning.
+I am open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning.
 
 # September 2015 week 2
 
@@ -11,13 +11,6 @@ I'm open sourcing these goals for accessibility across computers I use, transpar
 Short and long term goals go here, these are used to focus and drive forward my task list.
 
 ### 2015 Goals
-- [X] Work more with Open Source
-- [X] Write more blog posts
-- [X] Learn continuously
-- [X] Meet more people interested in coding
-- [X] Knowledge share
-- [X] Be more active
-- [X] Read broadly and frequently
 1. Build up the Iron Coder Project
 2. Have a joyful Holiday Season
 
@@ -46,14 +39,12 @@ Short and long term goals go here, these are used to focus and drive forward my 
 - [ ] Build up a checklist and 'productionalize' weekly Iron Coder work
 - [ ] Enjoy week 1 of the NFL season
 - [ ] Wrap up my 2015 goals
-- [ ] Create a list of my 2016 goals
 
 ## Tasks
 
 ### To Do This Week
-- [ ] Launch Iron Coder
 
-### Things I'll Do Soon
+### Things I Will Do Soon
 - [ ] Code examples of concepts from Effective Python "in my own words"
 - [ ] Create a Python script to use the accomplishments file to generate a weekly update blog post on [JamalHansen.com](http://jamalhansen.com)
 - [ ] Automatically remove checked off items from this list weekly
@@ -78,7 +69,6 @@ Short and long term goals go here, these are used to focus and drive forward my 
 - [ ] Look through [code kata](http://codekata.com/)
 - [ ] Look through [Project Euler](https://projecteuler.net/)
 - [ ] Build a list of coding challenges
-- [ ] Write up an outline for Iron Coder meeting #1
 
 
 ### Back Burner
