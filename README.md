@@ -38,20 +38,11 @@ Short and long term goals go here, these are used to focus and drive forward my 
 - [ ] Transition out of my lead role in Python Training
 - [ ] Build up a checklist and 'productionalize' weekly Iron Coder work
 - [ ] Enjoy week 1 of the NFL season
-<<<<<<< HEAD
-- [ ] Wrap up my 2015 goals
-=======
-- [X] Wrap up my 2015 goals
-- [X] Create a list of my 2016 goals
->>>>>>> fc8fe6770041b8013db79f37d495bd3b24769e0a
 
 ## Tasks
 
 ### To Do This Week
-<<<<<<< HEAD
-=======
-- [X] Launch Iron Coder
->>>>>>> fc8fe6770041b8013db79f37d495bd3b24769e0a
+
 
 ### Things I Will Do Soon
 - [ ] Code examples of concepts from Effective Python "in my own words"
