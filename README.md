@@ -24,7 +24,10 @@ Short and long term goals go here, these are used to focus and drive forward my 
 ## Tasks
 
 ### To Do This Week
-
+- [X] Prepare the second Iron Coder Challenge
+- [X] Write a project summary for Iron Coder 1
+- [ ] Take a look at [4clojure](http://4clojire.org)
+- [ ] Move PT Blog issues to github and other project items to a docs folder in the repo.
 
 ### Iron Coder
 
