@@ -4,7 +4,7 @@ from os.path import join, isfile
 import pytest
 
 from tests.helpers import *
-from pg_tools.weekly_update import WeeklyUpdate, strip_tail, split_lines, valid_line, is_whitespace, checked_line
+from pg_tools.weekly_update import *
 
 
 def test_weekly_update_has_a_source_dir_attribute(wu, source_dir):
@@ -105,10 +105,32 @@ def test_strip_tail():
         assert expected == actual
 
 def test_valid_line():
-    assert False, 'need to implement'
+    assert valid_line("     ")
+    assert valid_line("- [X]")
+    assert valid_line("ssssssssss\n")
+    assert valid_line("dkff;lk;lsdkf")
+
+def test_is_not_valid_line():
+    assert not valid_line("1234")
+    assert not valid_line("")
+    assert not valid_line("\n")
+    assert not valid_line("")
 
 def test_is_whitespace():
-    assert False, 'need to implement'
+    assert is_whitespace("\n")
+    assert is_whitespace(" ")
+    assert is_whitespace("   \t\n")
+
+def test_is_not_whitepspace():
+    assert not is_whitespace("sdfkljflsj")
+    assert not is_whitespace("1")
+    assert not is_whitespace("2\n")
 
 def test_checked_line():
-    assert False, 'need to implement'
+    assert checked_line("- [x]pdek eopd we pwekpewk")
+    assert checked_line("- [X]EW)ECMLD:MC DS")
+
+def test_not_checked_line():
+    assert not checked_line("      ")
+    assert not checked_line("dklsdds fpdsf d")
+    assert not checked_line("d- [x]d;;ds")
