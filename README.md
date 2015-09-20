@@ -5,7 +5,7 @@ Personal goals made open source.  Inspired by [Una](http://una.im/personal-goals
 
 I am open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning.
 
-# September 2015 week 3
+# September 2015 week 4
 
 ## Goals
 Short and long term goals go here, these are used to focus and drive forward my task list.
@@ -14,20 +14,15 @@ Short and long term goals go here, these are used to focus and drive forward my 
 1. Build up the Iron Coder Project
 2. Have a joyful Holiday Season
 
-
 ### Short Term Goals
 - [ ] Transition out of my lead role in SQL Training
 - [ ] Transition out of my lead role in Python Training
 - [ ] Build up a checklist and 'productionalize' weekly Iron Coder work
-- [X] Enjoy week 1 of the NFL season
 
 ## Tasks
 
 ### To Do This Week
-- [X] Prepare the second Iron Coder Challenge
-- [X] Write a project summary for Iron Coder 1
 - [ ] Take a look at [4clojure](http://4clojire.org)
-- [ ] Move PT Blog issues to github and other project items to a docs folder in the repo.
 
 ### Iron Coder
 
