@@ -18,7 +18,10 @@ Short and long term goals go here, these are used to focus and drive forward my 
 - [ ] Transition out of my lead role in SQL Training
 - [ ] Transition out of my lead role in Python Training
 - [ ] Build up a checklist and 'productionalize' weekly Iron Coder work
-- [ ] Create site for Indexcards
+- [X] Create site for Indexcards
+- [ ] Complete [inktober](http://inktober.com)
+- [ ] Add about me page to [The Daily 3x5](http://thedaily3x5.com)
+- [ ] Add about me page to [my blog](http://jamalhansen.com)
 
 ## Tasks
 
