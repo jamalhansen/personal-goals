@@ -23,11 +23,11 @@ Short and long term goals go here, these are used to focus and drive forward my 
 ## Tasks
 
 ### To Do This Week
-- [ ] Take a look at [4clojure](http://4clojire.org)
+- [X] Take a look at [4clojure](http://4clojure.org)
 
 ### Iron Coder
 
-- [ ] Look through [interview cake](https://www.interviewcake.com/)
+- [X] Look through [interview cake](https://www.interviewcake.com/)
 - [ ] Look through [code kata](http://codekata.com/)
 - [ ] Look through [Project Euler](https://projecteuler.net/)
 - [ ] Build a list of coding challenges
@@ -62,7 +62,7 @@ Short and long term goals go here, these are used to focus and drive forward my 
 14. Read 10 non-fiction books
 15. Learn [Clojure](http://clojure.org/)
 16. Post some of my art online again
-17. Indexcards 2.0
+17. [Indexcards 2.0](http://thedaily3x5.com)
 
 ### Back Burner
 
