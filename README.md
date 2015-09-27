@@ -15,21 +15,23 @@ Short and long term goals go here, these are used to focus and drive forward my 
 2. Have a joyful Holiday Season
 
 ### Short Term Goals
-- [ ] Transition out of my lead role in SQL Training
-- [ ] Transition out of my lead role in Python Training
 - [ ] Build up a checklist and 'productionalize' weekly Iron Coder work
-- [ ] Create site for Indexcards
-- [ ] Put [The daily 3x5](http://thedaily3x5.com) online
-- [ ] Participate in [inktober](http://inktober.com)
+- [ ] Complete [inktober](http://inktober.com)
+- [ ] Add about me page to [my blog](http://jamalhansen.com)
+- [ ] Write python script to generate blog post from new images on The Daily 3x5
 
 ## Tasks
 
 ### To Do This Week
-- [ ] Take a look at [4clojure](http://4clojire.org)
+- [ ] Start Inktober
+- [ ] Write up blog post for Iron Coder 2: Word Madness
+- [ ] Find and start the next Iron Coder Challenge
+- [ ] Figure out why my webcam is so dark
+- [ ] Build up a checklist and 'productionalize' weekly Iron Coder work
+- [ ] Add about me page to [The Daily 3x5](http://thedaily3x5.com)
 
 ### Iron Coder
 
-- [ ] Look through [interview cake](https://www.interviewcake.com/)
 - [ ] Look through [code kata](http://codekata.com/)
 - [ ] Look through [Project Euler](https://projecteuler.net/)
 - [ ] Build a list of coding challenges
@@ -64,7 +66,7 @@ Short and long term goals go here, these are used to focus and drive forward my 
 14. Read 10 non-fiction books
 15. Learn [Clojure](http://clojure.org/)
 16. Post some of my art online again
-17. Indexcards 2.0
+17. [Indexcards 2.0](http://thedaily3x5.com)
 
 ### Back Burner
 
