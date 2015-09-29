@@ -25,7 +25,7 @@ Short and long term goals go here, these are used to focus and drive forward my 
 ### To Do This Week
 - [ ] Start Inktober
 - [ ] Write up blog post for Iron Coder 2: Word Madness
-- [ ] Find and start the next Iron Coder Challenge
+- [X] Find and start the next Iron Coder Challenge
 - [ ] Figure out why my webcam is so dark
 - [ ] Build up a checklist and 'productionalize' weekly Iron Coder work
 - [ ] Add about me page to [The Daily 3x5](http://thedaily3x5.com)
@@ -33,7 +33,7 @@ Short and long term goals go here, these are used to focus and drive forward my 
 ### Iron Coder
 
 - [ ] Look through [code kata](http://codekata.com/)
-- [ ] Look through [Project Euler](https://projecteuler.net/)
+- [X] Look through [Project Euler](https://projecteuler.net/)
 - [ ] Build a list of coding challenges
 
 ### Things I Will Do Soon
