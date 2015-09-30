@@ -24,11 +24,13 @@ Short and long term goals go here, these are used to focus and drive forward my 
 
 ### To Do This Week
 - [ ] Start Inktober
+- [X] Create github pages site for Iron Coder
 - [ ] Write up blog post for Iron Coder 2: Word Madness
 - [X] Find and start the next Iron Coder Challenge
 - [ ] Figure out why my webcam is so dark
 - [ ] Build up a checklist and 'productionalize' weekly Iron Coder work
 - [ ] Add about me page to [The Daily 3x5](http://thedaily3x5.com)
+- [ ] Write an about me page for [jamalhansen.com](http://jamalhansen.com)
 
 ### Iron Coder
 
@@ -39,15 +41,9 @@ Short and long term goals go here, these are used to focus and drive forward my 
 ### Things I Will Do Soon
 - [ ] Create a Python script to use the accomplishments file to generate a weekly update blog post on [JamalHansen.com](http://jamalhansen.com)
 - [ ] Automatically remove checked off items from this list weekly
-- [ ] Write up a rebase dance blog post
 - [ ] My personal goals workflow blog post
-- [ ] [vim adventures](http://vim-adventures.com/)
-- [ ] Write an about me page for my blog
-- [ ] Use [Code Triage](http://www.codetriage.com/) to contribute to open source
 - [ ] Review my resume to keep it up to date
 - [ ] Complete Markov Chains Ruby Quiz in Python
-- [ ] Restyle my blog and manually build it with HTML5 and CSS from the ground up
-- [ ] Look at the hangouts API to see how difficult it would be to create an On Air Hangout attendance taking tool
 
 ### 2016 Goals
 1. Write 2 blog posts a week
@@ -78,6 +74,7 @@ Short and long term goals go here, these are used to focus and drive forward my 
 - [ ] Read Understanding comics
 - [ ] Do something with [Processing.py](http://py.processing.org/)
 - [ ] Write a book
+- [ ] Restyle my blog and manually build it with HTML5 and CSS from the ground up
 
 ## Cool Stuff to Check Out
 1. Want to play with RabbitMQ
@@ -93,6 +90,8 @@ Short and long term goals go here, these are used to focus and drive forward my 
 16. Include [thumbnail photos](http://stackoverflow.com/questions/19274463/what-is-link-rel-image-src) on my blog
 17. Python Metaprogramming
 18. Check out [Ozark](https://ozark.cc/)
+19. [vim adventures](http://vim-adventures.com/)
+20. Use [Code Triage](http://www.codetriage.com/) to contribute to open source
 
 ## Links
 
