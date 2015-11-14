@@ -15,10 +15,7 @@ Short and long term goals go here, these are used to focus and drive forward my 
 2. Have a joyful Holiday Season
 
 ### Short Term Goals
-- [ ] Build up a checklist and 'productionalize' weekly Iron Coder work
-- [ ] Complete [inktober](http://inktober.com)
-- [ ] Add about me page to [my blog](http://jamalhansen.com)
-- [ ] Write python script to generate blog post from new images on The Daily 3x5
+- [ ] Attend a technical conference
 
 ## Tasks
 
@@ -26,12 +23,7 @@ Short and long term goals go here, these are used to focus and drive forward my 
 
 - [X] Start Inktober
 - [X] Create github pages site for Iron Coder
-- [ ] Write up blog post for Iron Coder 2: Word Madness
 - [X] Find and start the next Iron Coder Challenge
-- [ ] Figure out why my webcam is so dark
-- [ ] Build up a checklist and 'productionalize' weekly Iron Coder work
-- [ ] Add about me page to [The Daily 3x5](http://thedaily3x5.com)
-- [ ] Write an about me page for [jamalhansen.com](http://jamalhansen.com)
 
 ### Iron Coder
 
@@ -58,12 +50,13 @@ Short and long term goals go here, these are used to focus and drive forward my 
 9. Build an epic github streak (@ 31 days)
 10. Level up my bash skills
 11. Gain experience and competence with [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) and [CSS tricks](http://css-tricks.com)
-12. Attend a technical conference
 13. Transition from walking to jogging
 14. Read 10 non-fiction books
 15. Learn [Clojure](http://clojure.org/)
 16. Post some of my art online again
 17. [Indexcards 2.0](http://thedaily3x5.com)
+18. Grow Python Thursday
+19. Grow Alamo Python Learners
 
 ### Back Burner
 
@@ -76,8 +69,12 @@ Short and long term goals go here, these are used to focus and drive forward my 
 - [ ] Do something with [Processing.py](http://py.processing.org/)
 - [ ] Write a book
 - [ ] Restyle my blog and manually build it with HTML5 and CSS from the ground up
+- [ ] Complete [inktober](http://inktober.com)
+- [ ] Write python script to generate blog post from new images on The Daily 3x5
+- [ ] Add about me page to [The Daily 3x5](http://thedaily3x5.com)
+- [ ] Write an about me page for [jamalhansen.com](http://jamalhansen.com)
 
-## Cool Stuff to Check Out
+#### Cool Stuff to Check Out
 1. Want to play with RabbitMQ
 2. Learn [Rust](https://www.rust-lang.org/)
 6. Check out [Click](http://click.pocoo.org/4/)
