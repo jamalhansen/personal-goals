@@ -15,7 +15,8 @@ Short and long term goals go here, these are used to focus and drive forward my 
 2. Have a joyful Holiday Season
 
 ### Short Term Goals
-- [ ] Attend a technical conference
+- [X] Attend a technical conference
+- [ ] Blog about my time at Ruby Conf
 
 ## Tasks
 
