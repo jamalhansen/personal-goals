@@ -76,6 +76,7 @@ Short and long term goals go here, these are used to focus and drive forward my 
 - [ ] Write an about me page for [jamalhansen.com](http://jamalhansen.com)
 
 #### Cool Stuff to Check Out
+1. Read [Basil & Fabian](http://blog.jamisbuck.org/)
 1. Want to play with RabbitMQ
 2. Learn [Rust](https://www.rust-lang.org/)
 6. Check out [Click](http://click.pocoo.org/4/)
