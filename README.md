@@ -15,21 +15,16 @@ Short and long term goals go here, these are used to focus and drive forward my 
 2. Have a joyful Holiday Season
 
 ### Short Term Goals
-- [X] Attend a technical conference
 - [ ] Blog about my time at Ruby Conf
 
 ## Tasks
 
 ### To Do This Week
 
-- [X] Start Inktober
-- [X] Create github pages site for Iron Coder
-- [X] Find and start the next Iron Coder Challenge
+- [ ] Write the next CodeNewbie Challenge
 
 ### Iron Coder
 
-- [X] Look through [code kata](http://codekata.com/)
-- [X] Look through [Project Euler](https://projecteuler.net/)
 - [ ] Build a list of coding challenges
 
 ### Things I Will Do Soon
@@ -51,6 +46,7 @@ Short and long term goals go here, these are used to focus and drive forward my 
 9. Build an epic github streak (@ 31 days)
 10. Level up my bash skills
 11. Gain experience and competence with [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) and [CSS tricks](http://css-tricks.com)
+12. Speak at RailsConf or other tech conference
 13. Transition from walking to jogging
 14. Read 10 non-fiction books
 15. Learn [Clojure](http://clojure.org/)
@@ -58,6 +54,8 @@ Short and long term goals go here, these are used to focus and drive forward my 
 17. [Indexcards 2.0](http://thedaily3x5.com)
 18. Grow Python Thursday
 19. Grow Alamo Python Learners
+20. Ruby Refresh
+21. Read more code
 
 ### Back Burner
 
@@ -70,19 +68,16 @@ Short and long term goals go here, these are used to focus and drive forward my 
 - [ ] Do something with [Processing.py](http://py.processing.org/)
 - [ ] Write a book
 - [ ] Restyle my blog and manually build it with HTML5 and CSS from the ground up
-- [ ] Complete [inktober](http://inktober.com)
 - [ ] Write python script to generate blog post from new images on The Daily 3x5
 - [ ] Add about me page to [The Daily 3x5](http://thedaily3x5.com)
+- [ ] Add older index cards to The Daily 3x5
 - [ ] Write an about me page for [jamalhansen.com](http://jamalhansen.com)
 
 #### Cool Stuff to Check Out
 1. Read [Basil & Fabian](http://blog.jamisbuck.org/)
-1. Want to play with RabbitMQ
 2. Learn [Rust](https://www.rust-lang.org/)
 6. Check out [Click](http://click.pocoo.org/4/)
-9. Check out codepen
 10. Check out Redis
-11. Check out and contribute to MDN (Mozilla Developer Network)
 12. Federated Wiki
 13. [Plus One Me](http://plusoneme.com)
 14. [Runestone](http://runestoneinteractive.org/) interactive textbooks
