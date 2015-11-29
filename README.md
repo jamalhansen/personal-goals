@@ -2,8 +2,6 @@ Personal Goals
 ==============
 
 ## To Do This Week
-- [X] Write the next CodeNewbie Challenge
-- [X] Create a python script to generate markdown for new indexcards for [The Daily 3x5](http://thedaily3x5.com)
 - [ ] Add older index cards to The Daily 3x5
 
 ## Short Term Tasks
