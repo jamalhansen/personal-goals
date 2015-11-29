@@ -3,7 +3,7 @@ from os.path import join, isfile
 
 import pytest
 
-from tests.helpers import *
+from helpers import *
 from pg_tools.weekly_update import *
 
 
