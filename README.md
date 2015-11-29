@@ -6,7 +6,7 @@ Personal Goals
 
 ## Short Term Tasks
 - [ ] Create a Python script to use the accomplishments file to generate a weekly update blog post on [JamalHansen.com](http://jamalhansen.com)
-- [ ] Automatically remove checked off items from this list weekly
+- [X] Automatically remove checked off items from this list weekly
 - [ ] Write a blog post about my goals flow
 
 ## 2015 Goals
