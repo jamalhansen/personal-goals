@@ -2,7 +2,7 @@ Personal Goals
 ==============
 
 ## To Do This Week
-- [ ] Add older index cards to The Daily 3x5
+- [X] Add older index cards to The Daily 3x5
 
 ## Short Term Tasks
 - [ ] Create a Python script to use the accomplishments file to generate a weekly update blog post on [JamalHansen.com](http://jamalhansen.com)
