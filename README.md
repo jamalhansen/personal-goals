@@ -1,98 +1,79 @@
 Personal Goals
 ==============
 
+## To Do This Week
+- [X] Write the next CodeNewbie Challenge
+- [X] Create a python script to generate markdown for new indexcards for [The Daily 3x5](http://thedaily3x5.com)
+- [ ] Add older index cards to The Daily 3x5
+
+## Short Term Tasks
+- [ ] Create a Python script to use the accomplishments file to generate a weekly update blog post on [JamalHansen.com](http://jamalhansen.com)
+- [ ] Automatically remove checked off items from this list weekly
+- [ ] Write a blog post about my goals flow
+
+## 2015 Goals
+- [ ] Have a joyful Holiday Season
+- [ ] Submit a talk to Rails Conf 2016
+- [ ] Submit a talk to PyCon 2016
+
+## 2016 Goals
+- [ ] Be kind
+- [ ] Be a better mentor and teacher
+- [ ] Write 2 blog posts a week
+- [ ] Contribute to open source projects
+- [ ] Learn [Clojure](http://clojure.org/)
+- [ ] Level up my Python skills
+- [ ] Refresh up my Ruby skills
+- [ ] Learn Django
+- [ ] Teach a programming language to all my kids
+- [ ] Speak at RailsConf or other tech conference
+- [ ] Transition from walking to jogging
+- [ ] Read 10 non-fiction books
+- [ ] Do [The Daily 3x5](http://thedaily3x5.com) daily
+- [ ] Grow Python Thursday
+- [ ] Grow Alamo Python Learners
+- [ ] Read more code
+- [ ] Keep my resume up to date
+- [ ] Clean up my github repos
+
+## Other Interests
+- [ ] Work on [Knot-a-rumor](https://github.com/jamalhansen/knot-a-rumor)
+- [ ] Read Understanding comics
+- [ ] Write a book
+- [ ] Restyle my blog and manually build it with HTML5 and CSS from the ground up
+- [ ] Add about me page to [The Daily 3x5](http://thedaily3x5.com)
+- [ ] Write an about me page for [jamalhansen.com](http://jamalhansen.com)
+
+## Cool Stuff I Want to Check Out
+- [ ] Read [Basil & Fabian](http://blog.jamisbuck.org/)
+- [ ] Learn [Rust](https://www.rust-lang.org/)
+- [ ] Check out [Click](http://click.pocoo.org/4/)
+- [ ] Check out Redis
+- [ ] Federated Wiki
+- [ ] [Plus One Me](http://plusoneme.com)
+- [ ] [Runestone](http://runestoneinteractive.org/) interactive textbooks
+- [ ] [Chore Wars](http://chorewars.com)
+- [ ] Include [thumbnail photos](http://stackoverflow.com/questions/19274463/what-is-link-rel-image-src) on my blog
+- [ ] Python Metaprogramming
+- [ ] Check out [Ozark](https://ozark.cc/)
+- [ ] [vim adventures](http://vim-adventures.com/)
+- [ ] Use [Code Triage](http://www.codetriage.com/) to contribute to open source
+- [ ] Do something with [Processing.py](http://py.processing.org/)
+- [ ] Do something with Sonic Pi
+- [ ] Complete Markov Chains Ruby Quiz in Python
+
+## Appendix
+
+### About this Goal Repository
 Personal goals made open source.  Inspired by [Una](http://una.im/personal-goals-guide/)
 
 I am open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning.
 
-# September 2015 week 4
-
-## Goals
-Short and long term goals go here, these are used to focus and drive forward my task list.
-
-### 2015 Goals
-1. Build up the Iron Coder Project
-2. Have a joyful Holiday Season
-
-### Short Term Goals
-- [ ] Blog about my time at Ruby Conf
-
-## Tasks
-
-### To Do This Week
-
-- [ ] Write the next CodeNewbie Challenge
-
-### Iron Coder
-
-- [ ] Build a list of coding challenges
-
-### Things I Will Do Soon
-- [ ] Create a Python script to use the accomplishments file to generate a weekly update blog post on [JamalHansen.com](http://jamalhansen.com)
-- [ ] Automatically remove checked off items from this list weekly
-- [ ] My personal goals workflow blog post
-- [ ] Review my resume to keep it up to date
-- [ ] Complete Markov Chains Ruby Quiz in Python
-
-### 2016 Goals
-1. Write 2 blog posts a week
-2. Contribute to an open source project
-3. Level up my Python skills
-4. Teach my kids real world software developer skills
-5. Teach a programming language to all my kids
-6. Level up my vim skills
-7. Learn continuously
-8. Be kind
-9. Build an epic github streak (@ 31 days)
-10. Level up my bash skills
-11. Gain experience and competence with [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) and [CSS tricks](http://css-tricks.com)
-12. Speak at RailsConf or other tech conference
-13. Transition from walking to jogging
-14. Read 10 non-fiction books
-15. Learn [Clojure](http://clojure.org/)
-16. Post some of my art online again
-17. [Indexcards 2.0](http://thedaily3x5.com)
-18. Grow Python Thursday
-19. Grow Alamo Python Learners
-20. Ruby Refresh
-21. Read more code
-
-### Back Burner
-
-#### Side Projects
-- [ ] Work on [Knot-a-rumor](https://github.com/jamalhansen/knot-a-rumor)
-- [ ] Make art
-- [ ] Write code to automagically make a readable blog post update from this
-- [ ] Look through and clean out my old repos for stuff to clean up
-- [ ] Read Understanding comics
-- [ ] Do something with [Processing.py](http://py.processing.org/)
-- [ ] Write a book
-- [ ] Restyle my blog and manually build it with HTML5 and CSS from the ground up
-- [ ] Write python script to generate blog post from new images on The Daily 3x5
-- [ ] Add about me page to [The Daily 3x5](http://thedaily3x5.com)
-- [ ] Add older index cards to The Daily 3x5
-- [ ] Write an about me page for [jamalhansen.com](http://jamalhansen.com)
-
-#### Cool Stuff to Check Out
-1. Read [Basil & Fabian](http://blog.jamisbuck.org/)
-2. Learn [Rust](https://www.rust-lang.org/)
-6. Check out [Click](http://click.pocoo.org/4/)
-10. Check out Redis
-12. Federated Wiki
-13. [Plus One Me](http://plusoneme.com)
-14. [Runestone](http://runestoneinteractive.org/) interactive textbooks
-15. [Chore Wars](http://chorewars.com)
-16. Include [thumbnail photos](http://stackoverflow.com/questions/19274463/what-is-link-rel-image-src) on my blog
-17. Python Metaprogramming
-18. Check out [Ozark](https://ozark.cc/)
-19. [vim adventures](http://vim-adventures.com/)
-20. Use [Code Triage](http://www.codetriage.com/) to contribute to open source
-
-## Links
+### Links
 
 * [Accomplishments](https://github.com/jamalhansen/personal-goals/tree/master/accomplishments)
 
-## Content
+### Content
 
 * [Blog Posts](https://github.com/jamalhansen/personal-goals/blob/master/content-list/blog-posts.md)
 * [Books](https://github.com/jamalhansen/personal-goals/blob/master/content-list/books.md)
@@ -102,7 +83,7 @@ Short and long term goals go here, these are used to focus and drive forward my 
 * [Slides](https://github.com/jamalhansen/personal-goals/blob/master/content-list/slides.md)
 * [Videos](https://github.com/jamalhansen/personal-goals/blob/master/content-list/videos.md)
 
-## Ideas
+### Ideas
 
 * [Blog ideas](https://github.com/jamalhansen/personal-goals/blob/master/ideas/blog-ideas.md)
 * [Iron Coder](https://github.com/jamalhansen/personal-goals/blob/master/ideas/iron-coder.md)
