@@ -8,6 +8,8 @@ Personal Goals
 - [ ] Create a Python script to use the accomplishments file to generate a weekly update blog post on [JamalHansen.com](http://jamalhansen.com)
 - [X] Automatically remove checked off items from this list weekly
 - [ ] Write a blog post about my goals flow
+_ [ ] Listen to [Django under the hood talks](https://opbeat.com/events/duth/?utm_content=buffer86914&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [ ] Read [Clojure for Rubyists](http://www.lispcast.com/clojure-ruby-videos?utm_source=dlvr.it&utm_medium=twitter)
 
 ## 2015 Goals
 - [ ] Have a joyful Holiday Season
@@ -43,6 +45,7 @@ Personal Goals
 - [ ] Restyle my blog and manually build it with HTML5 and CSS from the ground up
 - [ ] Add about me page to [The Daily 3x5](http://thedaily3x5.com)
 - [ ] Write an about me page for [jamalhansen.com](http://jamalhansen.com)
+- [ ] Write a story to teach beginners the bash commandline
 
 ## Cool Stuff I Want to Check Out
 - [ ] Read [Basil & Fabian](http://blog.jamisbuck.org/)
