@@ -29,10 +29,12 @@ Personal Goals
 - [ ] Read 10 non-fiction books
 - [ ] Do [The Daily 3x5](http://thedaily3x5.com) daily
 - [ ] Grow Python Thursday
+- [ ] Build a Clojure Group
 - [ ] Grow Alamo Python Learners
 - [ ] Read more code
 - [ ] Keep my resume up to date
 - [ ] Clean up my github repos
+- [ ] Learn Emacs
 
 ## Other Interests
 - [ ] Work on [Knot-a-rumor](https://github.com/jamalhansen/knot-a-rumor)
@@ -45,25 +47,24 @@ Personal Goals
 ## Cool Stuff I Want to Check Out
 - [ ] Read [Basil & Fabian](http://blog.jamisbuck.org/)
 - [ ] Learn [Rust](https://www.rust-lang.org/)
-- [ ] Check out [Click](http://click.pocoo.org/4/)
-- [ ] Check out Redis
+- [ ] [Click](http://click.pocoo.org/4/)
+- [ ] Redis
 - [ ] Federated Wiki
 - [ ] [Plus One Me](http://plusoneme.com)
 - [ ] [Runestone](http://runestoneinteractive.org/) interactive textbooks
 - [ ] [Chore Wars](http://chorewars.com)
 - [ ] Include [thumbnail photos](http://stackoverflow.com/questions/19274463/what-is-link-rel-image-src) on my blog
-- [ ] Python Metaprogramming
 - [ ] Check out [Ozark](https://ozark.cc/)
 - [ ] [vim adventures](http://vim-adventures.com/)
 - [ ] Use [Code Triage](http://www.codetriage.com/) to contribute to open source
-- [ ] Do something with [Processing.py](http://py.processing.org/)
-- [ ] Do something with Sonic Pi
+- [ ] [Processing.py](http://py.processing.org/)
+- [ ] Sonic Pi
 - [ ] Complete Markov Chains Ruby Quiz in Python
 
 ## Appendix
 
 ### About this Goal Repository
-Personal goals made open source.  Inspired by [Una](http://una.im/personal-goals-guide/)
+This is personal goals made open source.  Inspired by [Una](http://una.im/personal-goals-guide/)
 
 I am open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning.
 
