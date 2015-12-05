@@ -2,15 +2,12 @@ Personal Goals
 ==============
 
 ## To Do This Week
-- [X] Add older index cards to The Daily 3x5
 
 ## Short Term Tasks
 - [ ] Create a Python script to use the accomplishments file to generate a weekly update blog post on [JamalHansen.com](http://jamalhansen.com)
-- [X] Automatically remove checked off items from this list weekly
 - [ ] Write a blog post about my goals flow
 _ [ ] Listen to [Django under the hood talks](https://opbeat.com/events/duth/?utm_content=buffer86914&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [ ] Read [Clojure for Rubyists](http://www.lispcast.com/clojure-ruby-videos?utm_source=dlvr.it&utm_medium=twitter)
-- [X] Participate in 24PullRequests
 
 ## 2015 Goals
 - [ ] Have a joyful Holiday Season
