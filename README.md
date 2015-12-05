@@ -10,6 +10,7 @@ Personal Goals
 - [ ] Write a blog post about my goals flow
 _ [ ] Listen to [Django under the hood talks](https://opbeat.com/events/duth/?utm_content=buffer86914&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [ ] Read [Clojure for Rubyists](http://www.lispcast.com/clojure-ruby-videos?utm_source=dlvr.it&utm_medium=twitter)
+- [X] Participate in 24PullRequests
 
 ## 2015 Goals
 - [ ] Have a joyful Holiday Season
