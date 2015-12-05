@@ -43,6 +43,7 @@ _ [ ] Listen to [Django under the hood talks](https://opbeat.com/events/duth/?ut
 - [ ] Restyle my blog and manually build it with HTML5 and CSS from the ground up
 - [ ] Add about me page to [The Daily 3x5](http://thedaily3x5.com)
 - [ ] Write an about me page for [jamalhansen.com](http://jamalhansen.com)
+- [ ] Write a story to teach beginners the bash commandline
 
 ## Cool Stuff I Want to Check Out
 - [ ] Read [Basil & Fabian](http://blog.jamisbuck.org/)
