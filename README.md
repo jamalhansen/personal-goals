@@ -3,13 +3,14 @@ Personal Goals
 
 ## To Do This Week
 - [ ] Expand on my 2016 plan
+- [ ] Write an intro to my Clojure journey blog post
+- [ ] Write a 2015 was the year of Python post
 
 ## Short Term Tasks
 - [ ] Create a Python script to use the accomplishments file to generate a weekly update blog post on [JamalHansen.com](http://jamalhansen.com)
 - [ ] Write a blog post about my goals flow
 - [ ] Work on problems at 4clojure.com
 - [ ] Prepare for Living Clojure reading group
-- [ ] Write an intro to my Clojure journey blog post
 
 ## 2015 Goals
 - [ ] Have a joyful Holiday Season
