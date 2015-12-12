@@ -2,9 +2,6 @@ Personal Goals
 ==============
 
 ## To Do This Week
-- [X] Extract blog urls from CodeNewbie chat
-- [X] Create CodeNewbie Blogroll
-- [X] Read code on Python Thursday
 - [ ] Expand on my 2016 plan
 
 ## Short Term Tasks
