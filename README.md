@@ -11,6 +11,7 @@ Personal Goals
 - [ ] Write a blog post about my goals flow
 - [ ] Work on problems at 4clojure.com
 - [ ] Prepare for Living Clojure reading group
+- [ ] Check out [Clojure Koans](https://github.com/functional-koans/clojure-koans)
 
 ## 2015 Goals
 - [ ] Have a joyful Holiday Season
