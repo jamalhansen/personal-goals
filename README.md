@@ -4,10 +4,15 @@ Personal Goals
 ## To Do This Week
 - [X] Extract blog urls from CodeNewbie chat
 - [X] Create CodeNewbie Blogroll
+- [X] Read code on Python Thursday
+- [ ] Expand on my 2016 plan
 
 ## Short Term Tasks
 - [ ] Create a Python script to use the accomplishments file to generate a weekly update blog post on [JamalHansen.com](http://jamalhansen.com)
 - [ ] Write a blog post about my goals flow
+- [ ] Work on problems at 4clojure.com
+- [ ] Prepare for Living Clojure reading group
+- [ ] Write an intro to my Clojure journey blog post
 
 ## 2015 Goals
 - [ ] Have a joyful Holiday Season
@@ -23,11 +28,10 @@ Personal Goals
 - [ ] Level up my Python skills
 - [ ] Refresh up my Ruby skills
 - [ ] Learn Django
-- [ ] Teach a programming language to all my kids
+- [ ] Teach Ruby to my kids
 - [ ] Speak at RailsConf or other tech conference
 - [ ] Transition from walking to jogging
 - [ ] Read 10 non-fiction books
-- [ ] Do [The Daily 3x5](http://thedaily3x5.com) daily
 - [ ] Grow Python Thursday
 - [ ] Build a Clojure Group
 - [ ] Grow Alamo Python Learners
@@ -39,6 +43,7 @@ Personal Goals
 ## Other Interests
 - [ ] Work on [Knot-a-rumor](https://github.com/jamalhansen/knot-a-rumor)
 - [ ] Read Understanding comics
+- [ ] Do [The Daily 3x5](http://thedaily3x5.com) daily
 - [ ] Write a book
 - [ ] Restyle my blog and manually build it with HTML5 and CSS from the ground up
 - [ ] Add about me page to [The Daily 3x5](http://thedaily3x5.com)
