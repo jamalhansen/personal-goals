@@ -5,6 +5,7 @@ Personal Goals
 - [ ] Expand on my 2016 plan
 - [x] Write an intro to my Clojure journey blog post
 - [x] Write a 2015 was the year of Python post
+- [ ] Find out what needs to be submitted to a conf for a talk proposal
 
 ## Short Term Tasks
 - [ ] Create a Python script to use the accomplishments file to generate a weekly update blog post on [JamalHansen.com](http://jamalhansen.com)
