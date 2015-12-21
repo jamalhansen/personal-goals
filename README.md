@@ -6,6 +6,8 @@ Personal Goals
 - [x] Write an intro to my Clojure journey blog post
 - [x] Write a 2015 was the year of Python post
 - [ ] Find out what needs to be submitted to a conf for a talk proposal
+- [ ] Write up a summary of Code Newbie Challenges
+- [ ] Write the January Code Newbie Challenges
 
 ## Short Term Tasks
 - [ ] Create a Python script to use the accomplishments file to generate a weekly update blog post on [JamalHansen.com](http://jamalhansen.com)
