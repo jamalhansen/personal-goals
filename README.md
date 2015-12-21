@@ -3,8 +3,6 @@ Personal Goals
 
 ## To Do This Week
 - [ ] Expand on my 2016 plan
-- [x] Write an intro to my Clojure journey blog post
-- [x] Write a 2015 was the year of Python post
 - [ ] Find out what needs to be submitted to a conf for a talk proposal
 - [ ] Write up a summary of Code Newbie Challenges
 - [ ] Write the January Code Newbie Challenges
