@@ -2,22 +2,17 @@ Personal Goals
 ==============
 
 ## To Do This Week
-- [X] Expand on my 2016 plan
-- [X] Find out what needs to be submitted to a conf for a talk proposal
 - [ ] Write up a summary of Code Newbie Challenges
 - [ ] Write the January Code Newbie Challenges
-- [X] Implement Agile Family (or reasonable variation)
 - [ ] Look into a game to explore and learn the file system
 - [ ] Update pg/reset.py to move new README into place
 - [ ] Update pg/reset.py to move checked items to the Accomplishments folder
 - [ ] Setup repository for Python Thursday Text Adventure v2
-- [X] Submit [24 Pull Requests](http://24pullrequests.com/users/jamalhansen)
 
 ## Short Term Tasks
 - [ ] Prepare for Living Clojure reading group
 
 ## 2015 Goals
-- [X] Have a joyful Holiday Season
 - [ ] Submit a talk to Rails Conf 2016
 - [ ] Submit a talk to PyCon 2016
 
