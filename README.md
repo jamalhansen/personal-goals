@@ -20,9 +20,10 @@ Personal Goals
 - [ ] Be kind
 - [ ] Mentor and teach programming
 - [ ] Learn [Clojure](http://clojure.org/)
+- [ ] Do [The Daily 3x5](http://thedaily3x5.com) daily
 - [ ] Teach Ruby (or Python) to my kids
 - [ ] Write 2 blog posts a week
-- [ ] Dare greatly and [be vulerable](https://www.ted.com/talks/brene_brown_on_vulnerability)
+- [ ] Dare greatly and [be vulnerable](https://www.ted.com/talks/brene_brown_on_vulnerability)
 - [ ] Embrace the [upside of stress](https://www.ted.com/talks/kelly_mcgonigal_how_to_make_stress_your_friend)
 - [ ] Contribute to open source projects
 - [ ] Level up my Python skills
@@ -42,11 +43,10 @@ Personal Goals
 ## Other Interests
 - [ ] Work on [Knot-a-rumor](https://github.com/jamalhansen/knot-a-rumor)
 - [ ] Read Understanding comics
-- [ ] Do [The Daily 3x5](http://thedaily3x5.com) daily
 - [ ] Write a book
 - [ ] Restyle my blog and manually build it with HTML5 and CSS from the ground up
 - [ ] Add about me page to [The Daily 3x5](http://thedaily3x5.com)
-- [ ] Write an about me page for [jamalhansen.com](http://jamalhansen.com)
+- [X] Write an about me page for [jamalhansen.com](http://jamalhansen.com)
 - [ ] Write a story to teach beginners the bash commandline
 - [ ] Check out [Clojure Koans](https://github.com/functional-koans/clojure-koans)
 - [ ] Look into [Clojure Resources](https://github.com/matthiasn/Clojure-Resources)
