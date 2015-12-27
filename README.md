@@ -6,6 +6,11 @@ Personal Goals
 - [ ] Find out what needs to be submitted to a conf for a talk proposal
 - [ ] Write up a summary of Code Newbie Challenges
 - [ ] Write the January Code Newbie Challenges
+- [ ] Complete 24PullRequests
+- [ ] Implement Agile Family (or reasonable variation)
+- [ ] Look into a game to explore and learn the file system
+- [ ] Update pg/reset.py to move new README into place
+- [ ] Update pg/reset.py to move checked items to the Accomplishments folder
 
 ## Short Term Tasks
 - [ ] Create a Python script to use the accomplishments file to generate a weekly update blog post on [JamalHansen.com](http://jamalhansen.com)
