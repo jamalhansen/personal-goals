@@ -2,44 +2,43 @@ Personal Goals
 ==============
 
 ## To Do This Week
-- [ ] Expand on my 2016 plan
-- [ ] Find out what needs to be submitted to a conf for a talk proposal
+- [X] Expand on my 2016 plan
+- [X] Find out what needs to be submitted to a conf for a talk proposal
 - [ ] Write up a summary of Code Newbie Challenges
 - [ ] Write the January Code Newbie Challenges
+- [ ] Setup repository for Python Thursday Text Adventure v2
+- [X] Submit [24 Pull Requests](http://24pullrequests.com/users/jamalhansen)
 
 ## Short Term Tasks
-- [ ] Create a Python script to use the accomplishments file to generate a weekly update blog post on [JamalHansen.com](http://jamalhansen.com)
-- [ ] Write a blog post about my goals flow
-- [ ] Work on problems at 4clojure.com
 - [ ] Prepare for Living Clojure reading group
-- [ ] Check out [Clojure Koans](https://github.com/functional-koans/clojure-koans)
-- [ ] Look into [Clojure Resources](https://github.com/matthiasn/Clojure-Resources)
 
 ## 2015 Goals
-- [ ] Have a joyful Holiday Season
+- [X] Have a joyful Holiday Season
 - [ ] Submit a talk to Rails Conf 2016
 - [ ] Submit a talk to PyCon 2016
 
 ## 2016 Goals
 - [ ] Be kind
-- [ ] Be a better mentor and teacher
-- [ ] Write 2 blog posts a week
-- [ ] Contribute to open source projects
+- [ ] Mentor and teach programming
 - [ ] Learn [Clojure](http://clojure.org/)
+- [ ] Teach Ruby (or Python) to my kids
+- [ ] Write 2 blog posts a week
+- [ ] Dare greatly and [be vulerable](https://www.ted.com/talks/brene_brown_on_vulnerability)
+- [ ] Embrace the [upside of stress](https://www.ted.com/talks/kelly_mcgonigal_how_to_make_stress_your_friend)
+- [ ] Contribute to open source projects
 - [ ] Level up my Python skills
 - [ ] Refresh up my Ruby skills
 - [ ] Learn Django
-- [ ] Teach Ruby to my kids
+- [ ] Practice an Agile family
 - [ ] Speak at RailsConf or other tech conference
 - [ ] Transition from walking to jogging
-- [ ] Read 10 non-fiction books
-- [ ] Grow Python Thursday
+- [ ] [Read 10 non-fiction and 50 total books](https://www.goodreads.com/user/year_in_books/2016/3331615)
+- [ ] Grow CodeNewbie [Python Thursday](https://www.youtube.com/playlist?list=PLyLTyCCJDTTdTPr_2poRwdzQpHX3U8J2E)
 - [ ] Build a Clojure Group
 - [ ] Grow Alamo Python Learners
 - [ ] Read more code
 - [ ] Keep my resume up to date
-- [ ] Clean up my github repos
-- [ ] Learn Emacs
+- [ ] Clean up [my github repos](https://github.com/jamalhansen)
 
 ## Other Interests
 - [ ] Work on [Knot-a-rumor](https://github.com/jamalhansen/knot-a-rumor)
@@ -50,6 +49,10 @@ Personal Goals
 - [ ] Add about me page to [The Daily 3x5](http://thedaily3x5.com)
 - [ ] Write an about me page for [jamalhansen.com](http://jamalhansen.com)
 - [ ] Write a story to teach beginners the bash commandline
+- [ ] Check out [Clojure Koans](https://github.com/functional-koans/clojure-koans)
+- [ ] Look into [Clojure Resources](https://github.com/matthiasn/Clojure-Resources)
+- [ ] Write a blog post about my goals flow
+- [ ] Work on problems at 4clojure.com
 
 ## Cool Stuff I Want to Check Out
 - [ ] Read [Basil & Fabian](http://blog.jamisbuck.org/)
