@@ -7,7 +7,9 @@ Personal Goals
 - [ ] Look into a game to explore and learn the file system
 - [ ] Update pg/reset.py to move new README into place
 - [ ] Update pg/reset.py to move checked items to the Accomplishments folder
-- [ ] Setup repository for Python Thursday Text Adventure v2
+- [X] Setup repository for Python Thursday Text Adventure v2
+- [ ] Add issues to Python Thursday Text Adventure Repo
+- [ ] Get feedback on PTA2 Repo
 
 ## Short Term Tasks
 - [ ] Prepare for Living Clojure reading group
