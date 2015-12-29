@@ -10,6 +10,7 @@ Personal Goals
 - [X] Setup repository for Python Thursday Text Adventure v2
 - [ ] Add issues to Python Thursday Text Adventure Repo
 - [ ] Get feedback on PTA2 Repo
+- [ ] Watch https://www.ted.com/talks/gever_tulley_on_5_dangerous_things_for_kids?language=en
 
 ## Short Term Tasks
 - [ ] Prepare for Living Clojure reading group
