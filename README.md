@@ -15,6 +15,13 @@ Personal Goals
 ## Short Term Tasks
 - [ ] Prepare for Living Clojure reading group
 
+## Random Ideas
+- [ ] Living Clojure painting
+- [ ] Python Thursday painting
+- [ ] Daily 3x5 for Clojure, Python & Ruby 
+- [ ] Creative Programmer career track
+
+
 ## 2015 Goals
 - [ ] Submit a talk to Rails Conf 2016
 - [ ] Submit a talk to PyCon 2016
