@@ -46,6 +46,8 @@ _ [ ] Listen to [Django under the hood talks](https://opbeat.com/events/duth/?ut
 - [ ] Read [Clojure for Rubyists](http://www.lispcast.com/clojure-ruby-videos?utm_source=dlvr.it&utm_medium=twitter)
 - [ ] Work with mruby-cli
 - [ ] [Renpy](http://renpy.org/)
+- [ ] [Clojure Distilled](
+https://yogthos.github.io/ClojureDistilled.html)
 
 ## Appendix
 
