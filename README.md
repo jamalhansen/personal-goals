@@ -2,11 +2,8 @@ Personal Goals
 ==============
 
 ## To Do This Week
-- [ ] Write up a summary of Code Newbie Challenges
+- [X] Write up a summary of Code Newbie Challenges
 - [ ] Write the January Code Newbie Challenges
-- [ ] Look into a game to explore and learn the file system
-- [ ] Update pg/reset.py to move new README into place
-- [ ] Update pg/reset.py to move checked items to the Accomplishments folder
 - [X] Setup repository for Python Thursday Text Adventure v2
 - [ ] Setup initial issues for Python Thursday Text Adventure v2
 
@@ -16,37 +13,29 @@ Personal Goals
 - [ ] Get feedback on PTA2 Repo
 - [ ] Watch https://www.ted.com/talks/gever_tulley_on_5_dangerous_things_for_kids?language=en
 
-## Random Ideas
-- [ ] Living Clojure painting
-- [ ] Python Thursday painting
-- [ ] Daily 3x5 for Clojure, Python & Ruby
-- [ ] Creative Programmer career track
-
 ## [2016 Goals](https://workflowy.com)
-- [ ] Be kind
-- [ ] Mentor and teach programming
-- [ ] Learn [Clojure](http://clojure.org/)
-- [ ] Do [The Daily 3x5](http://thedaily3x5.com) daily
-- [ ] Teach Ruby (or Python) to my kids
-- [ ] Write 2 blog posts a week
-- [ ] Dare greatly and [be vulnerable](https://www.ted.com/talks/brene_brown_on_vulnerability)
-- [ ] Embrace the [upside of stress](https://www.ted.com/talks/kelly_mcgonigal_how_to_make_stress_your_friend)
+- [ ] Publish CodeNewbie Challenges
 - [ ] Contribute to open source projects
+- [ ] Transition from walking to running
+- [ ] Write 2 blog posts a week
 - [ ] Level up my Python skills
-- [ ] Refresh up my Ruby skills
+- [ ] Refresh my Ruby skills
 - [ ] Learn Django
-- [ ] Practice an Agile family
-- [ ] Speak at RailsConf or other tech conference
-- [ ] Transition from walking to jogging
-- [ ] [Read 10 non-fiction and 50 total books](https://www.goodreads.com/user/year_in_books/2016/3331615)
-- [ ] Grow CodeNewbie [Python Thursday](https://www.youtube.com/playlist?list=PLyLTyCCJDTTdTPr_2poRwdzQpHX3U8J2E)
-- [ ] Build a Clojure Group
-- [ ] Grow Alamo Python Learners
+- [ ] Speak at a conference
+- [ ] Read 10 non-fiction books
+- [ ] Read 75 books
 - [ ] Read more code
 - [ ] Keep my resume up to date
-- [ ] Clean up [my github repos](https://github.com/jamalhansen)
-- [ ] Submit a talk to a conf
-- [ ] Speak at a conf
+- [ ] Practice an agile family
+- [ ] Help my kids to achieve their goals
+- [ ] Lead Python Thursday
+- [ ] Build a Clojure group
+- [ ] Grow Alamo Code Learners
+- [ ] Lean into developing tech groups
+- [ ] Do work for a good cause
+- [ ] Learn Clojure
+- [ ] [Daily 3x5s](http://thedaily3x5.com)
+- [ ] Write a book
 
 ## High level goals
 * Pay it forward

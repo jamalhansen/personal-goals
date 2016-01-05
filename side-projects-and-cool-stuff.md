@@ -1,6 +1,18 @@
 Side Projects and Cool Stuff To Check Out
 ==============
 
+## Project Ideas
+- [ ] Write up a summary of Code Newbie Challenges
+- [ ] Look into a game to explore and learn the file system
+- [ ] Update pg/reset.py to move new README into place
+- [ ] Update pg/reset.py to move checked items to the Accomplishments folder
+
+## Random Ideas
+- [ ] Living Clojure painting
+- [ ] Python Thursday painting
+- [ ] Daily 3x5 for Clojure, Python & Ruby
+- [ ] Creative Programmer career track
+
 ## Side Projects
 - [ ] Work on [Knot-a-rumor](https://github.com/jamalhansen/knot-a-rumor)
 - [ ] Read Understanding comics
