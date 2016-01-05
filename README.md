@@ -8,10 +8,19 @@ Personal Goals
 - [ ] Update pg/reset.py to move new README into place
 - [ ] Update pg/reset.py to move checked items to the Accomplishments folder
 - [X] Setup repository for Python Thursday Text Adventure v2
-- [ ] Setup initial issues for Python THursday Text Adventure v2
+- [ ] Setup initial issues for Python Thursday Text Adventure v2
 
 ## Short Term Tasks
 - [ ] Prepare for Living Clojure group
+- [ ] Add issues to Python Thursday Text Adventure Repo
+- [ ] Get feedback on PTA2 Repo
+- [ ] Watch https://www.ted.com/talks/gever_tulley_on_5_dangerous_things_for_kids?language=en
+
+## Random Ideas
+- [ ] Living Clojure painting
+- [ ] Python Thursday painting
+- [ ] Daily 3x5 for Clojure, Python & Ruby
+- [ ] Creative Programmer career track
 
 ## 2016 Goals
 - [ ] Be kind
