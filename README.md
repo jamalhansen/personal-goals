@@ -22,7 +22,7 @@ Personal Goals
 - [ ] Daily 3x5 for Clojure, Python & Ruby
 - [ ] Creative Programmer career track
 
-## 2016 Goals
+## [2016 Goals](https://workflowy.com)
 - [ ] Be kind
 - [ ] Mentor and teach programming
 - [ ] Learn [Clojure](http://clojure.org/)
@@ -51,12 +51,12 @@ Personal Goals
 ## High level goals
 * Pay it forward
 * Na eínai kalýtero ánthropo apó ton patéra sou
-*  Live on my own terms
-*  Be so good they can't ignore me
-*  Nurture family
-*  Develop thriving friendly community
-*  Be Kind
-*  [Geek out on whatever makes me the most me I can be, and trust in the process](http://www.superlativelyrude.com/2016/01/laura-jane-williams-marie-claire-bravery-ambassador-break-free.html)
+* Live on my own terms
+* Be so good they can't ignore me
+* Nurture family
+* Develop thriving friendly community
+* Be Kind
+* [Geek out on whatever makes me the most me I can be, and trust in the process](http://www.superlativelyrude.com/2016/01/laura-jane-williams-marie-claire-bravery-ambassador-break-free.html)
 
 ## Other Interests
 - [ ] Work on [Knot-a-rumor](https://github.com/jamalhansen/knot-a-rumor)
