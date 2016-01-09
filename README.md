@@ -4,6 +4,11 @@ Personal Goals
 ## To Do This Week
 - [ ] Write the January Code Newbie Challenges
 - [ ] Setup initial issues for Python Thursday Text Adventure v2
+- [ ] Avoid fast food and sugary snacks
+- [ ] Look into meetings at the local library
+- [ ] Update Resume
+- [ ] Read Chapter 2 of Living Clojure
+- [ ] Read Chapter 1 of Apprenticeship Patterns
 
 ## Short Term Tasks
 - [ ] Watch https://www.ted.com/talks/gever_tulley_on_5_dangerous_things_for_kids?language=en
@@ -17,6 +22,7 @@ Personal Goals
 - [ ] Refresh my Ruby skills
 - [ ] Learn Django
 - [ ] Speak at a conference
+- [ ] Attend technical conferences
 - [ ] Read 10 non-fiction books
 - [ ] Read 75 books
 - [ ] Read more code
