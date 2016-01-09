@@ -2,15 +2,10 @@ Personal Goals
 ==============
 
 ## To Do This Week
-- [X] Write up a summary of Code Newbie Challenges
 - [ ] Write the January Code Newbie Challenges
-- [X] Setup repository for Python Thursday Text Adventure v2
 - [ ] Setup initial issues for Python Thursday Text Adventure v2
 
 ## Short Term Tasks
-- [ ] Prepare for Living Clojure group
-- [ ] Add issues to Python Thursday Text Adventure Repo
-- [ ] Get feedback on PTA2 Repo
 - [ ] Watch https://www.ted.com/talks/gever_tulley_on_5_dangerous_things_for_kids?language=en
 
 ## [2016 Goals](https://workflowy.com)
@@ -51,4 +46,3 @@ Personal Goals
 This is personal goals made open source.  Inspired by [Una](http://una.im/personal-goals-guide/)
 
 I am open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning.
-
