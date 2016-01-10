@@ -5,7 +5,7 @@ Personal Goals
 - [ ] Write the January Code Newbie Challenges
 - [ ] Setup initial issues for Python Thursday Text Adventure v2
 - [ ] Avoid fast food and sugary snacks
-- [ ] Look into meetings at the local library
+- [X] Look into meetings at the local library
 - [ ] Update Resume
 - [ ] Read Chapter 2 of Living Clojure
 - [ ] Read Chapter 1 of Apprenticeship Patterns
