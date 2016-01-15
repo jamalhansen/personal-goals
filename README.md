@@ -10,6 +10,9 @@ Personal Goals
 - [x] Read Chapter 2 of Living Clojure
 - [ ] Read Chapter 1 of Apprenticeship Patterns
 - [x] Host another Exploring Clojure session
+- [X] Install windows on HP Laptop for Lexxie to Play Myst
+- [ ] Trade Lexxie HP Laptop for Lenovo
+- [ ] Write Agile Family blog post
 
 ## Short Term Tasks
 - [ ] Watch https://www.ted.com/talks/gever_tulley_on_5_dangerous_things_for_kids?language=en
