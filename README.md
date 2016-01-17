@@ -4,13 +4,17 @@ Personal Goals
 ## To Do This Week
 - [ ] Write the January Code Newbie Challenges
 - [ ] Setup initial issues for Python Thursday Text Adventure v2
-- [ ] Avoid fast food and sugary snacks
+- [x] Avoid fast food and sugary snacks
 - [X] Look into meetings at the local library
 - [x] Update Resume
 - [x] Read Chapter 2 of Living Clojure
 - [ ] Read Chapter 1 of Apprenticeship Patterns
 - [x] Host another Exploring Clojure session
 - [x] Submit a talk proposal to RailsConf 2016
+- [X] Install windows on HP Laptop for Lexxie to Play Myst
+- [x] Trade Lexxie HP Laptop for Lenovo
+- [ ] Write Agile Family blog posT
+- [x] Apply for Location Coordinator role
 
 ## Short Term Tasks
 - [ ] Watch https://www.ted.com/talks/gever_tulley_on_5_dangerous_things_for_kids?language=en
