@@ -28,6 +28,7 @@ Personal Goals
 - [ ] Refresh my Ruby skills
 - [ ] Learn Django
 - [ ] Speak at a conference
+- [ ] Hunt and devour "ugly frogs"
 - [ ] Attend technical conferences
 - [ ] Read 10 non-fiction books
 - [ ] Read 75 books
