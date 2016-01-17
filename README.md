@@ -10,6 +10,7 @@ Personal Goals
 - [x] Read Chapter 2 of Living Clojure
 - [ ] Read Chapter 1 of Apprenticeship Patterns
 - [x] Host another Exploring Clojure session
+- [x] Submit a talk proposal to RailsConf 2016
 
 ## Short Term Tasks
 - [ ] Watch https://www.ted.com/talks/gever_tulley_on_5_dangerous_things_for_kids?language=en
