@@ -4,17 +4,18 @@ Personal Goals
 ## To Do This Week
 - [ ] Write the January Code Newbie Challenges
 - [ ] Setup initial issues for Python Thursday Text Adventure v2
-- [x] Avoid fast food and sugary snacks
-- [X] Look into meetings at the local library
-- [x] Update Resume
-- [x] Read Chapter 2 of Living Clojure
 - [ ] Read Chapter 1 of Apprenticeship Patterns
-- [x] Host another Exploring Clojure session
-- [x] Submit a talk proposal to RailsConf 2016
-- [X] Install windows on HP Laptop for Lexxie to Play Myst
-- [x] Trade Lexxie HP Laptop for Lenovo
-- [ ] Write Agile Family blog posT
-- [x] Apply for Location Coordinator role
+- [ ] Write Agile Family blog post
+- [ ] Make many appointments
+- [x] Install Linux on the Lenovo Yoga Pro
+- [x] Install Krita, PyCharm and Inkscape for kids
+- [x] Prepare first Python lesson for Sunday
+- [x] Install YNAB for Lexxie
+- [ ] Show Lexxie how to use YNAB
+- [ ] Search for other conferences looking for speakers
+- [ ] Take pictures to be used in blog posts
+- [ ] Start running on my walks
+- [ ] Setup first Adelante Data Analysis meetup
 
 ## Short Term Tasks
 - [ ] Watch https://www.ted.com/talks/gever_tulley_on_5_dangerous_things_for_kids?language=en
