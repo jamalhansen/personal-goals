@@ -4,9 +4,9 @@ Personal Goals
 ## To Do This Week
 - [ ] Write the January Code Newbie Challenges
 - [ ] Setup initial issues for Python Thursday Text Adventure v2
-- [ ] Read Chapter 1 of Apprenticeship Patterns
+- [x] Read Chapter 1 of Apprenticeship Patterns
 - [ ] Write Agile Family blog post
-- [ ] Make many appointments
+- [x] Make many appointments
 - [x] Install Linux on the Lenovo Yoga Pro
 - [x] Install Krita, PyCharm and Inkscape for kids
 - [x] Prepare first Python lesson for Sunday
