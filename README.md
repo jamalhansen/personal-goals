@@ -19,6 +19,7 @@ Personal Goals
 
 ## Short Term Tasks
 - [ ] Watch https://www.ted.com/talks/gever_tulley_on_5_dangerous_things_for_kids?language=en
+- [ ] [Read the specifications](http://chimera.labs.oreilly.com/books/1234000001813/ch02.html#solution_id1) for Clojure
 
 ## [2016 Goals](https://workflowy.com)
 - [ ] Publish CodeNewbie Challenges
