@@ -2,10 +2,12 @@ Personal Goals
 ==============
 
 ## To Do This Week
-- [ ] Write the January Code Newbie Challenges
+- [x] Write the January Code Newbie Challenge
 - [ ] Setup initial issues for Python Thursday Text Adventure v2
 - [x] Read Chapter 1 of Apprenticeship Patterns
+- [x] Read Chapter 3 of Living Clojure
 - [ ] Write Agile Family blog post
+- [ ] Write Concatenation does not mean "with cats"
 - [x] Make many appointments
 - [x] Install Linux on the Lenovo Yoga Pro
 - [x] Install Krita, PyCharm and Inkscape for kids
@@ -13,9 +15,17 @@ Personal Goals
 - [x] Install YNAB for Lexxie
 - [ ] Show Lexxie how to use YNAB
 - [ ] Search for other conferences looking for speakers
-- [ ] Take pictures to be used in blog posts
+- [x] Take pictures to be used in blog posts
 - [ ] Start running on my walks
 - [ ] Setup first Adelante Data Analysis meetup
+- [ ] Have an Exploring Clojure hangout
+- [ ] Complete Hello CodeNewbie in Clojure
+
+
+## Next Week
+- [ ] Chapter 2 of Apprenticeship Patterns
+- [ ] Chapter 4 of Living Clojure
+- [ ] Write next 2 CodeNewbie Challenges
 
 ## Short Term Tasks
 - [ ] Watch https://www.ted.com/talks/gever_tulley_on_5_dangerous_things_for_kids?language=en
