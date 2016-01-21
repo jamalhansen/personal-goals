@@ -26,6 +26,7 @@ Personal Goals
 - [ ] Chapter 2 of Apprenticeship Patterns
 - [ ] Chapter 4 of Living Clojure
 - [ ] Write next 2 CodeNewbie Challenges
+- [ ] Create Alamo Code Slack Channel
 
 ## Short Term Tasks
 - [ ] Watch https://www.ted.com/talks/gever_tulley_on_5_dangerous_things_for_kids?language=en
