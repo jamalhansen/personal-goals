@@ -26,7 +26,7 @@ Personal Goals
 
 ## Next Week
 - [x] Chapter 2 of Apprenticeship Patterns
-- [ ] Chapter 4 of Living Clojure
+- [x] Chapter 4 of Living Clojure
 - [ ] Write next 2 CodeNewbie Challenges
 - [x] Create Alamo Code Slack Channel
 
