@@ -45,6 +45,7 @@ Personal Goals
 - [ ] Tmux
 - [ ] Practical Vim
 - [ ] Docker Up & Running
+- [ ] Release It!
 
 ## [2016 Goals](https://workflowy.com)
 - [ ] Publish CodeNewbie Challenges
