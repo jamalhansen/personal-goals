@@ -29,9 +29,10 @@ Personal Goals
 - [x] Chapter 4 of Living Clojure
 - [ ] Write next 2 CodeNewbie Challenges
 - [x] Create Alamo Code Slack Channel
+- [ ] Submit a talk to Clojure West
 
 ## Short Term Tasks
-- [ ] Watch https://www.ted.com/talks/gever_tulley_on_5_dangerous_things_for_kids?language=en
+- [x] Watch https://www.ted.com/talks/gever_tulley_on_5_dangerous_things_for_kids?language=en
 - [ ] [Read the specifications](http://chimera.labs.oreilly.com/books/1234000001813/ch02.html#solution_id1) for Clojure
 
 ## 2016 Reading List
