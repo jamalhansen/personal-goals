@@ -20,12 +20,14 @@ Personal Goals
 - [ ] Setup first Adelante Data Analysis meetup
 - [ ] Have an Exploring Clojure hangout
 - [ ] Complete Hello CodeNewbie in Clojure
+- [x] Create seven 3x5s
 
 
 ## Next Week
 - [ ] Chapter 2 of Apprenticeship Patterns
 - [ ] Chapter 4 of Living Clojure
 - [ ] Write next 2 CodeNewbie Challenges
+- [ ] Create seven 3x5s
 
 ## Short Term Tasks
 - [ ] Watch https://www.ted.com/talks/gever_tulley_on_5_dangerous_things_for_kids?language=en
