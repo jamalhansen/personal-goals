@@ -20,6 +20,7 @@ Personal Goals
 - [ ] Setup first Adelante Data Analysis meetup
 - [ ] Have an Exploring Clojure hangout
 - [ ] Complete Hello CodeNewbie in Clojure
+- [x] Create seven 3x5s
 - [x] Make Exploring Closure stickers
 - [x] Make Adelante Data Analytics Stickers
 
@@ -28,6 +29,7 @@ Personal Goals
 - [x] Chapter 2 of Apprenticeship Patterns
 - [x] Chapter 4 of Living Clojure
 - [ ] Write next 2 CodeNewbie Challenges
+- [ ] Create seven 3x5s
 - [x] Create Alamo Code Slack Channel
 - [ ] Submit a talk to Clojure West
 
@@ -40,7 +42,7 @@ Personal Goals
 - [ ] Living Clojure
 - [ ] Closure for the brave and true
 - [ ] Test Driven Development with Python
-- [ ] Fluent Python 
+- [ ] Fluent Python
 - [ ] Unix Power Tools
 - [ ] Apprenticeship Patterns
 - [ ] Tmux
