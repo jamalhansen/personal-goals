@@ -2,6 +2,8 @@
 
 from os import getcwd
 from py import path
+from datetime import date
+
 
 import py
 
@@ -18,5 +20,13 @@ local = py.path.local(current_dir)
 checked_out = local.join("README.md.checked")
 unchecked_out = local.join("README.md.new")
 
-wu = WeeklyUpdate(current_dir, source, checked_out, unchecked_out)
+day = date.today()
+accom_file = day.strftime("%Y-%m-%d")
+accom_file = "{0}.md".format(accom_file)
+accom_out = local.join("accomplishments", accom_file)
+
+wu = WeeklyUpdate(current_dir, source, accom_out, unchecked_out)
 wu.wrap_up_week()
+
+# Now let's move stuff to where it goes
+unchecked_out.move(local.join(source))

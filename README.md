@@ -2,39 +2,26 @@ Personal Goals
 ==============
 
 ## To Do This Week
-- [x] Write the January Code Newbie Challenge
 - [ ] Setup initial issues for Python Thursday Text Adventure v2
-- [x] Read Chapter 1 of Apprenticeship Patterns
-- [x] Read Chapter 3 of Living Clojure
 - [ ] Write Agile Family blog post
 - [ ] Write Concatenation does not mean "with cats"
-- [x] Make many appointments
-- [x] Install Linux on the Lenovo Yoga Pro
-- [x] Install Krita, PyCharm and Inkscape for kids
-- [x] Prepare first Python lesson for Sunday
-- [x] Install YNAB for Lexxie
 - [ ] Show Lexxie how to use YNAB
 - [ ] Search for other conferences looking for speakers
-- [x] Take pictures to be used in blog posts
 - [ ] Start running on my walks
 - [ ] Setup first Adelante Data Analysis meetup
 - [ ] Have an Exploring Clojure hangout
 - [ ] Complete Hello CodeNewbie in Clojure
-- [x] Create seven 3x5s
-- [x] Make Exploring Closure stickers
-- [x] Make Adelante Data Analytics Stickers
+- [ ] Write next 2 CodeNewbie Challenges
+- [ ] Create seven 3x5s
+- [ ] Submit a talk to Clojure West
+- [ ] Read tmux: Mouse free productivity
+- [ ] Demo a project for the Python Thursday Text Adventure v2
 
 
 ## Next Week
-- [x] Chapter 2 of Apprenticeship Patterns
-- [x] Chapter 4 of Living Clojure
-- [ ] Write next 2 CodeNewbie Challenges
-- [ ] Create seven 3x5s
-- [x] Create Alamo Code Slack Channel
-- [ ] Submit a talk to Clojure West
+
 
 ## Short Term Tasks
-- [x] Watch https://www.ted.com/talks/gever_tulley_on_5_dangerous_things_for_kids?language=en
 - [ ] [Read the specifications](http://chimera.labs.oreilly.com/books/1234000001813/ch02.html#solution_id1) for Clojure
 
 ## 2016 Reading List
