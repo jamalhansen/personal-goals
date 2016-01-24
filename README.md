@@ -9,7 +9,7 @@ Personal Goals
 - [ ] Search for other conferences looking for speakers
 - [ ] Start running on my walks
 - [ ] Setup first Adelante Data Analysis meetup
-- [ ] Have an Exploring Clojure hangout
+- [x] Have an Exploring Clojure hangout
 - [ ] Complete Hello CodeNewbie in Clojure
 - [ ] Write next 2 CodeNewbie Challenges
 - [ ] Create seven 3x5s
@@ -19,6 +19,7 @@ Personal Goals
 
 
 ## Next Week
+- [ ] Have an Exploring Clojure Hangout
 
 
 ## Short Term Tasks
