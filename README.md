@@ -23,6 +23,8 @@ Personal Goals
 ## Next Week
 - [ ] Have an Exploring Clojure hangout
 - [ ] Create seven 3x5s
+- [ ] Create a tool that tracks how many blog posts I write a week
+- [ ] Create a tool that tracks if I make all 7 3x5 cards in a week
 
 
 ## Short Term Tasks
