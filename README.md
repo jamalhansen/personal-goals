@@ -16,6 +16,7 @@ Personal Goals
 - [ ] Submit a talk to Clojure West
 - [ ] Read tmux: Mouse free productivity
 - [ ] Demo a project for the Python Thursday Text Adventure v2
+- [x] Start teaching my kids Python
 
 
 ## Next Week
@@ -37,6 +38,7 @@ Personal Goals
 - [ ] Practical Vim
 - [ ] Docker Up & Running
 - [ ] Release It!
+- [ ] The Tangled Web
 
 ## [2016 Goals](https://workflowy.com)
 - [ ] Publish CodeNewbie Challenges
