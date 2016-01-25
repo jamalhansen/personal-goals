@@ -15,7 +15,7 @@ Personal Goals
 - [ ] Create seven 3x5s
 - [ ] Submit a talk to Clojure West
 - [ ] Read tmux: Mouse free productivity
-- [ ] Demo a project for the Python Thursday Text Adventure v2
+- [ ] Demo an issue for the Python Thursday Text Adventure v2
 - [x] Start teaching my kids Python
 
 
