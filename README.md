@@ -3,9 +3,9 @@ Personal Goals
 
 ## To Do This Week
 - [ ] Setup initial issues for Python Thursday Text Adventure v2
-- [ ] Write Agile Family blog post
+- [x] Write Agile Family blog post
 - [ ] Write Concatenation does not mean "with cats"
-- [ ] Show Lexxie how to use YNAB
+- [x] Show Lexxie how to use YNAB
 - [ ] Search for other conferences looking for speakers
 - [ ] Start running on my walks
 - [ ] Setup first Adelante Data Analysis meetup
@@ -16,9 +16,12 @@ Personal Goals
 - [ ] Submit a talk to Clojure West
 - [ ] Read tmux: Mouse free productivity
 - [ ] Demo a project for the Python Thursday Text Adventure v2
+- [ ] Post Hello CodeNewbie Challenge
 
 
 ## Next Week
+- [ ] Have an Exploring Clojure hangout
+- [ ] Create seven 3x5s
 
 
 ## Short Term Tasks
