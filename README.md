@@ -18,6 +18,8 @@ Personal Goals
 - [ ] Demo a project for the Python Thursday Text Adventure v2
 - [ ] Post Hello CodeNewbie Challenge
 - [x] Write blog post about starting to teach the kids Python
+- [x] Read chapter 5 of Living Clojure
+- [ ] Read chapter 3 of Apprenticeship Patterns
 
 
 ## Next Week
@@ -25,6 +27,8 @@ Personal Goals
 - [ ] Create seven 3x5s
 - [ ] Create a tool that tracks how many blog posts I write a week
 - [ ] Create a tool that tracks if I make all 7 3x5 cards in a week
+- [ ] Read chapter 6 of Living Closure
+- [ ] Read chapter 4 of Apprenticeship Patterns
 
 
 ## Short Term Tasks
