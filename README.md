@@ -17,6 +17,7 @@ Personal Goals
 - [ ] Read tmux: Mouse free productivity
 - [ ] Demo an issue for the Python Thursday Text Adventure v2
 - [x] Start teaching my kids Python
+- [ ] Watch https://youtu.be/0GzzFeS5cMc
 
 
 ## Next Week
