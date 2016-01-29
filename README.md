@@ -6,14 +6,13 @@ Personal Goals
 - [x] Write Agile Family blog post
 - [ ] Write Concatenation does not mean "with cats"
 - [x] Show Lexxie how to use YNAB
-- [ ] Search for other conferences looking for speakers
 - [ ] Start running on my walks
 - [ ] Setup first Adelante Data Analysis meetup
 - [x] Have an Exploring Clojure hangout
 - [ ] Complete Hello CodeNewbie in Clojure
 - [ ] Write next 2 CodeNewbie Challenges
 - [ ] Create seven 3x5s
-- [ ] Submit a talk to Clojure West
+- [x] Submit a talk to Clojure West
 - [ ] Read tmux: Mouse free productivity
 - [ ] Demo an issue for the Python Thursday Text Adventure v2
 - [x] Start teaching my kids Python
