@@ -22,7 +22,8 @@ Personal Goals
 - [x] Write blog post about starting to teach the kids Python
 - [x] Read chapter 5 of Living Clojure
 - [x] Read chapter 3 of Apprenticeship Patterns
-
+- [ ] I don't know Clojure style, 
+http://blog.mattgauger.com/blog/2014/09/15/clojure-code-quality-tools/
 
 
 ## Next Week
