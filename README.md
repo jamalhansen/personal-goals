@@ -23,6 +23,8 @@ Personal Goals
 - [x] Read chapter 5 of Living Clojure
 - [x] Read chapter 3 of Apprenticeship Patterns
 - [ ] Read Clojure style guide. https://github.com/bbatsov/clojure-style-guide
+- [ ] I don't know Clojure style,
+http://blog.mattgauger.com/blog/2014/09/15/clojure-code-quality-tools/
 
 
 ## Next Week
