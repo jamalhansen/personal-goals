@@ -84,6 +84,7 @@ http://blog.mattgauger.com/blog/2014/09/15/clojure-code-quality-tools/
 - [ ] Learn Clojure
 - [ ] [Daily 3x5s](http://thedaily3x5.com)
 - [ ] Write a book
+- [ ] Get involved with dotNET on Linux
 
 ## High level goals
 * Pay it forward
