@@ -34,6 +34,12 @@ http://blog.mattgauger.com/blog/2014/09/15/clojure-code-quality-tools/
 - [ ] Read chapter 6 of Living Closure
 - [ ] Read chapter 4 of Apprenticeship Patterns
 
+## [Expose My Ignorance](http://jamalhansen.com/exposing-my-ignorance.html)
+- [ ] I need to learn to handle Unicode
+- [ ] I need to learn better navigation habits in vim
+- [ ] I need to learn about generating documentation from Python
+- [ ] I need to improve my knowledge of Python modules
+- [ ] I need to learn to recognize and write ideomatic Python
 
 ## Short Term Tasks
 - [ ] [Read the specifications](http://chimera.labs.oreilly.com/books/1234000001813/ch02.html#solution_id1) for Clojure
