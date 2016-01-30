@@ -48,7 +48,7 @@ http://blog.mattgauger.com/blog/2014/09/15/clojure-code-quality-tools/
 ## 2016 Reading List
 
 - [ ] Living Clojure
-- [ ] Closure for the brave and true
+- [ ] Clojure for the brave and true
 - [ ] Test Driven Development with Python
 - [ ] Fluent Python
 - [ ] Unix Power Tools
