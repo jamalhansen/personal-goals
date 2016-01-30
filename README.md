@@ -34,6 +34,7 @@ http://blog.mattgauger.com/blog/2014/09/15/clojure-code-quality-tools/
 - [ ] Create a tool that tracks if I make all 7 3x5 cards in a week
 - [ ] Read chapter 6 of Living Closure
 - [ ] Read chapter 4 of Apprenticeship Patterns
+- [ ] Create a tool to generate a blog post template for jh
 
 ## [Expose My Ignorance](http://jamalhansen.com/exposing-my-ignorance.html)
 - [ ] I need to learn to handle Unicode
@@ -48,7 +49,7 @@ http://blog.mattgauger.com/blog/2014/09/15/clojure-code-quality-tools/
 ## 2016 Reading List
 
 - [ ] Living Clojure
-- [ ] Closure for the brave and true
+- [ ] Clojure for the brave and true
 - [ ] Test Driven Development with Python
 - [ ] Fluent Python
 - [ ] Unix Power Tools
