@@ -24,7 +24,8 @@ Personal Goals
 - [ ] Read Clojure style guide. https://github.com/bbatsov/clojure-style-guide
 - [ ] I don't know Clojure style,
 http://blog.mattgauger.com/blog/2014/09/15/clojure-code-quality-tools/
-
+- [x] Write up a post to expose my ignorance
+- [ ] Research one item from my list of things I am ignorant about
 
 ## Next Week
 - [ ] Have an Exploring Clojure Hangout
