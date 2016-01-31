@@ -76,6 +76,7 @@ http://blog.mattgauger.com/blog/2014/09/15/clojure-code-quality-tools/
 - [ ] [Daily 3x5s](http://thedaily3x5.com)
 - [ ] Write a book
 - [ ] Get involved with dotNET on Linux
+- [ ] [Write better](http://www.jamesaltucher.com/2011/03/33-unusual-tips-to-being-a-better-writer/)
 
 ## High level goals
 * Pay it forward
