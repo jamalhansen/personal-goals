@@ -11,7 +11,7 @@ Personal Goals
 - [ ] Create seven 3x5s
 - [ ] Read tmux: Mouse free productivity
 - [ ] Demo an issue for the Python Thursday Text Adventure v2
-- [ ] Watch https://youtu.be/0GzzFeS5cMc
+- [x] Watch https://youtu.be/0GzzFeS5cMc
 - [ ] Read Clojure style guide. https://github.com/bbatsov/clojure-style-guide
 - [ ] I don't know Clojure style,
 http://blog.mattgauger.com/blog/2014/09/15/clojure-code-quality-tools/
