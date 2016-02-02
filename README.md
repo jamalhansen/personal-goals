@@ -8,7 +8,7 @@ Personal Goals
 - [ ] Setup first Adelante Data Analysis meetup
 - [ ] Complete Hello CodeNewbie in Clojure
 - [ ] Write next 2 CodeNewbie Challenges
-- [ ] Create seven 3x5s
+- [x] Create seven 3x5s
 - [ ] Read tmux: Mouse free productivity
 - [ ] Demo an issue for the Python Thursday Text Adventure v2
 - [x] Watch https://youtu.be/0GzzFeS5cMc
