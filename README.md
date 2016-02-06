@@ -11,8 +11,6 @@ Personal Goals
 - [ ] I don't know Clojure style,
 http://blog.mattgauger.com/blog/2014/09/15/clojure-code-quality-tools/
 - [ ] Research one item from my list of things I am ignorant about
-
-## Next Week
 - [ ] Have an Exploring Clojure Hangout
 - [ ] Write 2 CodeNewbie Challenges
 - [ ] Create seven 3x5s
@@ -20,6 +18,12 @@ http://blog.mattgauger.com/blog/2014/09/15/clojure-code-quality-tools/
 - [ ] Create a tool that tracks if I make all 7 3x5 cards in a week
 - [ ] Read chapter 6 of Living Closure
 - [ ] Create a tool to generate a blog post template for jh
+
+## Next Week
+- [ ] Create seven 3x5s
+- [ ] Write 2 CodeNewbie Challenges
+- [ ] Read chapter 7 of Living Closure
+- [ ] Read chapter 5 of Apprenticeship Patterns
 
 ## [Expose My Ignorance](http://jamalhansen.com/exposing-my-ignorance.html)
 - [ ] I need to learn to handle Unicode
