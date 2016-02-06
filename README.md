@@ -7,7 +7,7 @@ Personal Goals
 - [ ] Start running on my walks
 - [ ] Setup first Adelante Data Analysis meetup
 - [ ] Complete Hello CodeNewbie in Clojure
-- [ ] Write next 2 CodeNewbie Challenges
+- [x] Write next CodeNewbie Challenges
 - [x] Create seven 3x5s
 - [x] Read tmux: Mouse free productivity
 - [ ] Demo an issue for the Python Thursday Text Adventure v2
@@ -20,6 +20,7 @@ http://blog.mattgauger.com/blog/2014/09/15/clojure-code-quality-tools/
 
 ## Next Week
 - [ ] Have an Exploring Clojure Hangout
+- [ ] Write 2 CodeNewbie Challenges
 - [ ] Create seven 3x5s
 - [ ] Create a tool that tracks how many blog posts I write a week
 - [ ] Create a tool that tracks if I make all 7 3x5 cards in a week
@@ -45,7 +46,7 @@ http://blog.mattgauger.com/blog/2014/09/15/clojure-code-quality-tools/
 - [ ] Fluent Python
 - [ ] Unix Power Tools
 - [ ] Apprenticeship Patterns
-- [ ] Tmux
+- [x] Tmux: Mouse free productivity
 - [ ] Practical Vim
 - [ ] Docker Up & Running
 - [ ] Release It!
