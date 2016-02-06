@@ -2,21 +2,15 @@ Personal Goals
 ==============
 
 ## To Do This Week
-- [X] Setup initial issues for Python Thursday Text Adventure v2
 - [ ] Write Concatenation does not mean "with cats"
 - [ ] Start running on my walks
 - [ ] Setup first Adelante Data Analysis meetup
 - [ ] Complete Hello CodeNewbie in Clojure
-- [x] Write next CodeNewbie Challenges
-- [x] Create seven 3x5s
-- [x] Read tmux: Mouse free productivity
 - [ ] Demo an issue for the Python Thursday Text Adventure v2
-- [x] Watch https://youtu.be/0GzzFeS5cMc
 - [ ] Read Clojure style guide. https://github.com/bbatsov/clojure-style-guide
 - [ ] I don't know Clojure style,
 http://blog.mattgauger.com/blog/2014/09/15/clojure-code-quality-tools/
 - [ ] Research one item from my list of things I am ignorant about
-- [x] Have an Exploring Clojure Hangout
 
 ## Next Week
 - [ ] Have an Exploring Clojure Hangout
@@ -25,7 +19,6 @@ http://blog.mattgauger.com/blog/2014/09/15/clojure-code-quality-tools/
 - [ ] Create a tool that tracks how many blog posts I write a week
 - [ ] Create a tool that tracks if I make all 7 3x5 cards in a week
 - [ ] Read chapter 6 of Living Closure
-- [x] Read chapter 4 of Apprenticeship Patterns
 - [ ] Create a tool to generate a blog post template for jh
 
 ## [Expose My Ignorance](http://jamalhansen.com/exposing-my-ignorance.html)
@@ -46,7 +39,6 @@ http://blog.mattgauger.com/blog/2014/09/15/clojure-code-quality-tools/
 - [ ] Fluent Python
 - [ ] Unix Power Tools
 - [ ] Apprenticeship Patterns
-- [x] Tmux: Mouse free productivity
 - [ ] Practical Vim
 - [ ] Docker Up & Running
 - [ ] Release It!
