@@ -2,7 +2,7 @@ Personal Goals
 ==============
 
 ## To Do This Week
-- [ ] Setup initial issues for Python Thursday Text Adventure v2
+- [X] Setup initial issues for Python Thursday Text Adventure v2
 - [ ] Write Concatenation does not mean "with cats"
 - [ ] Start running on my walks
 - [ ] Setup first Adelante Data Analysis meetup
@@ -16,6 +16,7 @@ Personal Goals
 - [ ] I don't know Clojure style,
 http://blog.mattgauger.com/blog/2014/09/15/clojure-code-quality-tools/
 - [ ] Research one item from my list of things I am ignorant about
+- [x] Have an Exploring Clojure Hangout
 
 ## Next Week
 - [ ] Have an Exploring Clojure Hangout
