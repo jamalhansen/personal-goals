@@ -16,7 +16,7 @@ http://blog.mattgauger.com/blog/2014/09/15/clojure-code-quality-tools/
 - [ ] Create seven 3x5s
 - [ ] Create a tool that tracks how many blog posts I write a week
 - [ ] Create a tool that tracks if I make all 7 3x5 cards in a week
-- [ ] Read chapter 6 of Living Closure
+- [x] Read chapter 6 of Living Closure
 - [ ] Create a tool to generate a blog post template for jh
 
 ## Next Week
