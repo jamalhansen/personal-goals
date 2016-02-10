@@ -8,7 +8,7 @@ Personal Goals
 - [ ] Complete Hello CodeNewbie in Clojure
 - [ ] Demo an issue for the Python Thursday Text Adventure v2
 - [ ] Read Clojure style guide. https://github.com/bbatsov/clojure-style-guide
-- [ ] I don't know Clojure style,
+- [ ] Read about Clojure code quality tools
 http://blog.mattgauger.com/blog/2014/09/15/clojure-code-quality-tools/
 - [ ] Research one item from my list of things I am ignorant about
 - [ ] Have an Exploring Clojure Hangout
@@ -17,6 +17,12 @@ http://blog.mattgauger.com/blog/2014/09/15/clojure-code-quality-tools/
 - [ ] Create a tool that tracks how many blog posts I write a week
 - [ ] Create a tool that tracks if I make all 7 3x5 cards in a week
 - [x] Read chapter 6 of Living Closure
+- [x] Run Alamo Code Learners Meetup
+- [x] Start Alamo Code Slack Channel
+- [x] Have an Alamo Code Hangout
+- [x] Get a new job
+- [ ] Create slides for Apprenticeship Patterns Chapter 5
+- [ ] Create stickers for Alamo Code
 - [ ] Create a tool to generate a blog post template for jh
 
 ## Next Week
@@ -24,8 +30,10 @@ http://blog.mattgauger.com/blog/2014/09/15/clojure-code-quality-tools/
 - [ ] Write 2 CodeNewbie Challenges
 - [ ] Read chapter 7 of Living Closure
 - [ ] Read chapter 5 of Apprenticeship Patterns
+- [ ] Prepare talk for next Alamo Code
+- [ ] Have an Alamo Code Hangout
 
-## [Expose My Ignorance](http://jamalhansen.com/exposing-my-ignorance.html)
+## [Expose My Ignorance](http://jamalhansen.com/exposing-my-ignorance.html) (0 Educated)
 - [ ] I need to learn to handle Unicode
 - [ ] I need to learn better navigation habits in vim
 - [ ] I need to learn about generating documentation from Python
@@ -35,7 +43,7 @@ http://blog.mattgauger.com/blog/2014/09/15/clojure-code-quality-tools/
 ## Short Term Tasks
 - [ ] [Read the specifications](http://chimera.labs.oreilly.com/books/1234000001813/ch02.html#solution_id1) for Clojure
 
-## 2016 Reading List
+## 2016 Reading List (1 Complete)
 
 - [ ] Living Clojure
 - [ ] Clojure for the brave and true
@@ -47,8 +55,9 @@ http://blog.mattgauger.com/blog/2014/09/15/clojure-code-quality-tools/
 - [ ] Docker Up & Running
 - [ ] Release It!
 - [ ] The Tangled Web
+- [x] Read The Art of Asking
 
-## [2016 Goals](https://workflowy.com)
+## [2016 Goals](https://workflowy.com) (0 Complete)
 - [ ] Publish CodeNewbie Challenges
 - [ ] Contribute to open source projects
 - [ ] Transition from walking to running
