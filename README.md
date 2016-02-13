@@ -32,6 +32,8 @@ http://blog.mattgauger.com/blog/2014/09/15/clojure-code-quality-tools/
 - [ ] Read chapter 5 of Apprenticeship Patterns
 - [ ] Prepare talk for next Alamo Code
 - [ ] Have an Alamo Code Hangout
+- [ ] Look into west side Alamo Code meetup
+
 
 ## [Expose My Ignorance](http://jamalhansen.com/exposing-my-ignorance.html) (0 Educated)
 - [ ] I need to learn to handle Unicode
