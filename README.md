@@ -45,6 +45,7 @@ http://blog.mattgauger.com/blog/2014/09/15/clojure-code-quality-tools/
 ## Short Term Tasks
 - [ ] [Read the specifications](http://chimera.labs.oreilly.com/books/1234000001813/ch02.html#solution_id1) for Clojure
 - [ ] Use better dotfiles https://dotfiles.github.io/
+- [ ] Try [Purely Functional tv](http://www.purelyfunctional.tv/)
 
 ## 2016 Reading List (1 Complete)
 
