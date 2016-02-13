@@ -57,6 +57,7 @@ http://blog.mattgauger.com/blog/2014/09/15/clojure-code-quality-tools/
 - [ ] Read Release It!
 - [ ] Read The Tangled Web
 - [ ] Read [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
+- [ ] Read [How to make sense of any mess](http://www.howtomakesenseofanymess.com/)
 
 ## [2016 Goals](https://workflowy.com) (0 Complete)
 - [ ] Publish CodeNewbie Challenges
