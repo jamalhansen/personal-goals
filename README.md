@@ -2,31 +2,27 @@ Personal Goals
 ==============
 
 ## To Do This Week
-- [ ] Write Concatenation does not mean "with cats"
 - [ ] Start running on my walks
 - [ ] Setup first Adelante Data Analysis meetup
 - [ ] Complete Hello CodeNewbie in Clojure
-- [ ] Read Clojure style guide. https://github.com/bbatsov/clojure-style-guide
-- [ ] Read about Clojure code quality tools
-http://blog.mattgauger.com/blog/2014/09/15/clojure-code-quality-tools/
 - [ ] Research one item from my list of things I am ignorant about
 - [ ] Have an Exploring Clojure Hangout
 - [ ] Write 2 CodeNewbie Challenges
 - [ ] Create seven 3x5s
-- [ ] Create a tool that tracks how many blog posts I write a week
-- [ ] Create a tool that tracks if I make all 7 3x5 cards in a week
 - [ ] Create slides for Apprenticeship Patterns Chapter 5
 - [ ] Create stickers for Alamo Code
-- [ ] Create a tool to generate a blog post template for jh
-
-## Next Week
-- [ ] Create seven 3x5s
-- [ ] Write 2 CodeNewbie Challenges
 - [ ] Read chapter 7 of Living Closure
 - [ ] Prepare talk for next Alamo Code
 - [ ] Have an Alamo Code Hangout
 - [ ] Look into west side Alamo Code meetup
 
+## Next Week
+- [ ] Create seven 3x5s
+- [ ] Write 2 CodeNewbie Challenges
+- [ ] Read Apprenticeship Patterns Chapter 6
+- [ ] Read Chapter 8 of Living Clojure
+- [ ] Have an Alamo Code Hangout
+- [ ] Have an Exploring Clojure Hangout
 
 ## [Expose My Ignorance](http://jamalhansen.com/exposing-my-ignorance.html) (0 Educated)
 - [ ] I need to learn to handle Unicode
@@ -36,9 +32,17 @@ http://blog.mattgauger.com/blog/2014/09/15/clojure-code-quality-tools/
 - [ ] I need to learn to recognize and write ideomatic Python
 
 ## Short Term Tasks
+- [ ] Try using Sphero with Python
 - [ ] [Read the specifications](http://chimera.labs.oreilly.com/books/1234000001813/ch02.html#solution_id1) for Clojure
 - [ ] Use better dotfiles https://dotfiles.github.io/
 - [ ] Try [Purely Functional tv](http://www.purelyfunctional.tv/)
+- [ ] Create a tool to generate a blog post template for jh
+- [ ] Create a tool that tracks how many blog posts I write a week
+- [ ] Create a tool that tracks if I make all 7 3x5 cards in a week
+- [ ] Read Clojure style guide. https://github.com/bbatsov/clojure-style-guide
+- [ ] Read about Clojure code quality tools
+http://blog.mattgauger.com/blog/2014/09/15/clojure-code-quality-tools/
+- [ ] Write Concatenation does not mean "with cats"
 
 ## 2016 Reading List (1 Complete)
 
