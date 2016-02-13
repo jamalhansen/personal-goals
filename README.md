@@ -6,7 +6,6 @@ Personal Goals
 - [ ] Start running on my walks
 - [ ] Setup first Adelante Data Analysis meetup
 - [ ] Complete Hello CodeNewbie in Clojure
-- [x] Demo an issue for the Python Thursday Text Adventure v2
 - [ ] Read Clojure style guide. https://github.com/bbatsov/clojure-style-guide
 - [ ] Read about Clojure code quality tools
 http://blog.mattgauger.com/blog/2014/09/15/clojure-code-quality-tools/
@@ -16,11 +15,6 @@ http://blog.mattgauger.com/blog/2014/09/15/clojure-code-quality-tools/
 - [ ] Create seven 3x5s
 - [ ] Create a tool that tracks how many blog posts I write a week
 - [ ] Create a tool that tracks if I make all 7 3x5 cards in a week
-- [x] Read chapter 6 of Living Closure
-- [x] Run Alamo Code Learners Meetup
-- [x] Start Alamo Code Slack Channel
-- [x] Have an Alamo Code Hangout
-- [x] Get a new job
 - [ ] Create slides for Apprenticeship Patterns Chapter 5
 - [ ] Create stickers for Alamo Code
 - [ ] Create a tool to generate a blog post template for jh
@@ -29,7 +23,6 @@ http://blog.mattgauger.com/blog/2014/09/15/clojure-code-quality-tools/
 - [ ] Create seven 3x5s
 - [ ] Write 2 CodeNewbie Challenges
 - [ ] Read chapter 7 of Living Closure
-- [x] Read chapter 5 of Apprenticeship Patterns
 - [ ] Prepare talk for next Alamo Code
 - [ ] Have an Alamo Code Hangout
 - [ ] Look into west side Alamo Code meetup
@@ -59,7 +52,6 @@ http://blog.mattgauger.com/blog/2014/09/15/clojure-code-quality-tools/
 - [ ] Read Docker Up & Running
 - [ ] Read Release It!
 - [ ] Read The Tangled Web
-- [x] Read The Art of Asking
 - [ ] Read [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
 
 ## [2016 Goals](https://workflowy.com) (0 Complete)
