@@ -6,7 +6,7 @@ Personal Goals
 - [ ] Start running on my walks
 - [ ] Setup first Adelante Data Analysis meetup
 - [ ] Complete Hello CodeNewbie in Clojure
-- [ ] Demo an issue for the Python Thursday Text Adventure v2
+- [x] Demo an issue for the Python Thursday Text Adventure v2
 - [ ] Read Clojure style guide. https://github.com/bbatsov/clojure-style-guide
 - [ ] Read about Clojure code quality tools
 http://blog.mattgauger.com/blog/2014/09/15/clojure-code-quality-tools/
@@ -29,7 +29,7 @@ http://blog.mattgauger.com/blog/2014/09/15/clojure-code-quality-tools/
 - [ ] Create seven 3x5s
 - [ ] Write 2 CodeNewbie Challenges
 - [ ] Read chapter 7 of Living Closure
-- [ ] Read chapter 5 of Apprenticeship Patterns
+- [x] Read chapter 5 of Apprenticeship Patterns
 - [ ] Prepare talk for next Alamo Code
 - [ ] Have an Alamo Code Hangout
 - [ ] Look into west side Alamo Code meetup
@@ -49,16 +49,16 @@ http://blog.mattgauger.com/blog/2014/09/15/clojure-code-quality-tools/
 
 ## 2016 Reading List (1 Complete)
 
-- [ ] Living Clojure
-- [ ] Clojure for the brave and true
-- [ ] Test Driven Development with Python
-- [ ] Fluent Python
-- [ ] Unix Power Tools
-- [ ] Apprenticeship Patterns
-- [ ] Practical Vim
-- [ ] Docker Up & Running
-- [ ] Release It!
-- [ ] The Tangled Web
+- [ ] Read Living Clojure
+- [ ] Read Clojure for the brave and true
+- [ ] Read Test Driven Development with Python
+- [ ] Read Fluent Python
+- [ ] Read Unix Power Tools
+- [ ] Read Apprenticeship Patterns
+- [ ] Read Practical Vim
+- [ ] Read Docker Up & Running
+- [ ] Read Release It!
+- [ ] Read The Tangled Web
 - [x] Read The Art of Asking
 - [ ] Read [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
 
