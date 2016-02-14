@@ -4,9 +4,10 @@ Personal Goals
 ## To Do This Week
 - [ ] Start running on my walks
 - [ ] Setup first Adelante Data Analysis meetup
-- [ ] Complete Hello CodeNewbie in Clojure
+- [x] Complete Hello CodeNewbie in Clojure
+- [ ] Complete Calculations in Clojure
 - [ ] Research one item from my list of things I am ignorant about
-- [ ] Have an Exploring Clojure Hangout
+- [x] Have an Exploring Clojure Hangout
 - [ ] Write 2 CodeNewbie Challenges
 - [ ] Create seven 3x5s
 - [ ] Create slides for Apprenticeship Patterns Chapter 5
