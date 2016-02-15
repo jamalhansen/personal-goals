@@ -16,6 +16,7 @@ Personal Goals
 - [ ] Read chapter 7 of Living Closure
 - [ ] Prepare talk for next Alamo Code
 - [x] Have an Alamo Code Hangout
+- [x] Setup Alamo Code YouTube channel
 - [ ] Look into west side Alamo Code meetup
 
 ## Next Week
