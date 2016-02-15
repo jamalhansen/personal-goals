@@ -10,11 +10,12 @@ Personal Goals
 - [x] Have an Exploring Clojure Hangout
 - [ ] Write 2 CodeNewbie Challenges
 - [ ] Create seven 3x5s
-- [ ] Create slides for Apprenticeship Patterns Chapter 5
-- [ ] Create stickers for Alamo Code
+- [x] Create slides for Apprenticeship Patterns Chapter 5
+- [x] Create logo for Alamo Code
+- [x] Create stickers for Alamo Code
 - [ ] Read chapter 7 of Living Closure
 - [ ] Prepare talk for next Alamo Code
-- [ ] Have an Alamo Code Hangout
+- [x] Have an Alamo Code Hangout
 - [ ] Look into west side Alamo Code meetup
 
 ## Next Week
