@@ -9,7 +9,7 @@ Personal Goals
 - [ ] Research one item from my list of things I am ignorant about
 - [x] Have an Exploring Clojure Hangout
 - [ ] Write 2 CodeNewbie Challenges
-- [ ] Create seven 3x5s
+- [x] Create seven 3x5s
 - [x] Create slides for Apprenticeship Patterns Chapter 5
 - [x] Create logo for Alamo Code
 - [x] Create stickers for Alamo Code
@@ -18,6 +18,8 @@ Personal Goals
 - [x] Have an Alamo Code Hangout
 - [x] Setup Alamo Code YouTube channel
 - [ ] Look into west side Alamo Code meetup
+- [x] Make video to help people get started with Learn Python the Hard Way
+- [x] Make video to help people use PythonAnywhere with Learn Python The Hard WAy so they can do it at the library
 
 ## Next Week
 - [ ] Create seven 3x5s
