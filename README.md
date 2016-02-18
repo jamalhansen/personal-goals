@@ -29,6 +29,7 @@ Personal Goals
 - [ ] Read Chapter 8 of Living Clojure
 - [ ] Have an Alamo Code Hangout
 - [ ] Have an Exploring Clojure Hangout
+- [ ] Submit a conf talk to http://abstractions.io
 
 ## [Expose My Ignorance](http://jamalhansen.com/exposing-my-ignorance.html) (0 Educated)
 - [ ] I need to learn to handle Unicode
