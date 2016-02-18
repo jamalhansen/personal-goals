@@ -14,7 +14,8 @@ Personal Goals
 - [x] Create slides for Apprenticeship Patterns Chapter 5
 - [x] Create logo for Alamo Code
 - [x] Create stickers for Alamo Code
-- [ ] Read chapter 7 of Living Closure
+- [x] Read chapter 7 of Living Closure
+- [ ] Read chapter 8 of Living Closure
 - [ ] Prepare talk for next Alamo Code
 - [x] Have an Alamo Code Hangout
 - [x] Setup Alamo Code YouTube channel
