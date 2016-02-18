@@ -3,6 +3,7 @@ Personal Goals
 
 ## To Do This Week
 - [ ] Start running on my walks
+- [x] Announce Adelante Data
 - [ ] Setup first Adelante Data Analysis meetup
 - [x] Complete Hello CodeNewbie in Clojure
 - [ ] Complete Calculations in Clojure
