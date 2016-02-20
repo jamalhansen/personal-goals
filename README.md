@@ -3,31 +3,24 @@ Personal Goals
 
 ## To Do This Week
 - [ ] Start running on my walks
-- [x] Announce Adelante Data
 - [ ] Setup first Adelante Data Analysis meetup
-- [x] Complete Hello CodeNewbie in Clojure
 - [ ] Complete Calculations in Clojure
 - [ ] Research one item from my list of things I am ignorant about
-- [x] Have an Exploring Clojure Hangout
 - [ ] Write 2 CodeNewbie Challenges
-- [x] Create seven 3x5s
-- [x] Create slides for Apprenticeship Patterns Chapter 5
-- [x] Create logo for Alamo Code
-- [x] Create stickers for Alamo Code
-- [x] Read chapter 7 of Living Closure
-- [x] Read chapter 8 of Living Closure
 - [ ] Prepare talk for next Alamo Code
-- [x] Have an Alamo Code Hangout
-- [x] Setup Alamo Code YouTube channel
 - [ ] Look into west side Alamo Code meetup
-- [x] Make video to help people get started with Learn Python the Hard Way
-- [x] Make video to help people use PythonAnywhere with Learn Python The Hard WAy so they can do it at the library
+- [ ] Create seven 3x5s
+- [ ] Write 2 CodeNewbie Challenges
+- [ ] Read Apprenticeship Patterns Chapter 6
+- [ ] Complete a week of exercises in Living Clojure
+- [ ] Have an Alamo Code Hangout
+- [ ] Have an Exploring Clojure Hangout
+- [ ] Post next CodeNewbie Challenge
 
 ## Next Week
 - [ ] Create seven 3x5s
 - [ ] Write 2 CodeNewbie Challenges
 - [ ] Read Apprenticeship Patterns Chapter 6
-- [ ] Read Chapter 8 of Living Clojure
 - [ ] Have an Alamo Code Hangout
 - [ ] Have an Exploring Clojure Hangout
 - [ ] Submit a conf talk to http://abstractions.io
