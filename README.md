@@ -12,9 +12,12 @@ Personal Goals
 - [ ] Create seven 3x5s
 - [ ] Read Apprenticeship Patterns Chapter 6
 - [ ] Complete a week of exercises in Living Clojure
-- [x] Have an Alamo Code Hangout
+- [ ] Have an Alamo Code Hangout
 - [x] Have an Exploring Clojure Hangout
 - [ ] Post next CodeNewbie Challenge
+- [x] Make Alamo Code Hangout for LPTHW Chapters 3 & 4
+- [x] Stream 4clojure.com practice to livecoding.tv 
+- [ ] Read Chapters 1 - 3 Clojure for the Brave and True
 
 ## Next Week
 - [ ] Create seven 3x5s
