@@ -14,13 +14,12 @@ Personal Goals
 - [ ] Read Apprenticeship Patterns Chapter 6
 - [ ] Complete a week of exercises in Living Clojure
 - [ ] Have an Alamo Code Hangout
-- [ ] Have an Exploring Clojure Hangout
+- [x] Have an Exploring Clojure Hangout
 - [ ] Post next CodeNewbie Challenge
 
 ## Next Week
 - [ ] Create seven 3x5s
 - [ ] Write 2 CodeNewbie Challenges
-- [ ] Read Apprenticeship Patterns Chapter 6
 - [ ] Have an Alamo Code Hangout
 - [ ] Have an Exploring Clojure Hangout
 - [ ] Submit a conf talk to http://abstractions.io
