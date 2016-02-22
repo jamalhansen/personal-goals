@@ -17,7 +17,7 @@ Personal Goals
 - [ ] Post next CodeNewbie Challenge
 - [x] Make Alamo Code Hangout for LPTHW Chapters 3 & 4
 - [x] Stream 4clojure.com practice to livecoding.tv 
-- [ ] Read Chapters 1 - 3 Clojure for the Brave and True
+- [x] Read Chapters 1 - 3 Clojure for the Brave and True
 
 ## Next Week
 - [ ] Create seven 3x5s
