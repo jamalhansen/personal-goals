@@ -3,7 +3,7 @@ Personal Goals
 
 ## To Do This Week
 - [ ] Start running on my walks
-- [x] Setup first Adelante Data Analysis meetup
+- [x] Setup Adelante Data Analysis kickoff meeting
 - [ ] Complete Calculations in Clojure
 - [ ] Research one item from my list of things I am ignorant about
 - [ ] Write 2 CodeNewbie Challenges
@@ -18,6 +18,8 @@ Personal Goals
 - [x] Make Alamo Code Hangout for LPTHW Chapters 3 & 4
 - [x] Stream 4clojure.com practice to livecoding.tv
 - [x] Read Chapters 1 - 3 Clojure for the Brave and True
+- [ ] Send invites to upcoming Adelante Data Analytics meet gs
+- [ ] Prepare materials for Adelante Data Analytics meeting 1
 
 ## Next Week
 - [ ] Create seven 3x5s
