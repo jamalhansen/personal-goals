@@ -101,6 +101,6 @@ http://blog.mattgauger.com/blog/2014/09/15/clojure-code-quality-tools/
 * [Geek out on whatever makes me the most me I can be, and trust in the process](http://www.superlativelyrude.com/2016/01/laura-jane-williams-marie-claire-bravery-ambassador-break-free.html)
 
 ## About this Goal Repository
-This is personal goals made open source.  Inspired by [Una](http://una.im/personal-goals-guide/)
+This is personal goals made open source.  Inspired by [Una](http://una.im/personal-goals-guide)
 
 I am open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning.
