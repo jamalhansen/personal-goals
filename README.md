@@ -3,20 +3,20 @@ Personal Goals
 
 ## To Do This Week
 - [ ] Start running on my walks
-- [ ] Setup first Adelante Data Analysis meetup
+- [x] Setup first Adelante Data Analysis meetup
 - [ ] Complete Calculations in Clojure
 - [ ] Research one item from my list of things I am ignorant about
 - [ ] Write 2 CodeNewbie Challenges
 - [ ] Prepare talk for next Alamo Code
 - [ ] Look into west side Alamo Code meetup
-- [ ] Create seven 3x5s
+- [x] Create seven 3x5s
 - [ ] Read Apprenticeship Patterns Chapter 6
 - [ ] Complete a week of exercises in Living Clojure
 - [ ] Have an Alamo Code Hangout
 - [x] Have an Exploring Clojure Hangout
 - [ ] Post next CodeNewbie Challenge
 - [x] Make Alamo Code Hangout for LPTHW Chapters 3 & 4
-- [x] Stream 4clojure.com practice to livecoding.tv 
+- [x] Stream 4clojure.com practice to livecoding.tv
 - [x] Read Chapters 1 - 3 Clojure for the Brave and True
 
 ## Next Week
