@@ -2,7 +2,7 @@ Personal Goals
 ==============
 
 ## To Do This Week
-- [ ] Start running on my walks
+- [X] Start running on my walks
 - [x] Setup Adelante Data Analysis kickoff meeting
 - [ ] Complete Calculations in Clojure
 - [ ] Research one item from my list of things I am ignorant about
@@ -18,7 +18,7 @@ Personal Goals
 - [x] Make Alamo Code Hangout for LPTHW Chapters 3 & 4
 - [x] Stream 4clojure.com practice to livecoding.tv
 - [x] Read Chapters 1 - 3 Clojure for the Brave and True
-- [ ] Send invites to upcoming Adelante Data Analytics meet gs
+- [ ] Send invites to upcoming Adelante Data Analytics meetings
 - [ ] Prepare materials for Adelante Data Analytics meeting 1
 
 ## Next Week
@@ -27,6 +27,7 @@ Personal Goals
 - [ ] Have an Alamo Code Hangout
 - [ ] Have an Exploring Clojure Hangout
 - [ ] Submit a conf talk to http://abstractions.io
+- [ ] Run for a portion of every walk this week
 
 ## [Expose My Ignorance](http://jamalhansen.com/exposing-my-ignorance.html) (0 Educated)
 - [ ] I need to learn to handle Unicode
