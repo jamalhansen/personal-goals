@@ -2,24 +2,17 @@ Personal Goals
 ==============
 
 ## To Do This Week
-- [X] Start running on my walks
-- [x] Setup Adelante Data Analysis kickoff meeting
 - [ ] Complete Calculations in Clojure
 - [ ] Research one item from my list of things I am ignorant about
 - [ ] Write 2 CodeNewbie Challenges
 - [ ] Prepare talk for next Alamo Code
 - [ ] Look into west side Alamo Code meetup
-- [x] Create seven 3x5s
 - [ ] Read Apprenticeship Patterns Chapter 6
 - [ ] Complete a week of exercises in Living Clojure
 - [ ] Have an Alamo Code Hangout
-- [x] Have an Exploring Clojure Hangout
 - [ ] Post next CodeNewbie Challenge
-- [x] Make Alamo Code Hangout for LPTHW Chapters 3 & 4
-- [x] Stream 4clojure.com practice to livecoding.tv
-- [x] Read Chapters 1 - 3 Clojure for the Brave and True
-- [x] Send invites to upcoming Adelante Data Analytics meetings
 - [ ] Prepare materials for Adelante Data Analytics meeting 1
+- [ ] Try using Sphero with Python
 
 ## Next Week
 - [ ] Create seven 3x5s
@@ -37,7 +30,6 @@ Personal Goals
 - [ ] I need to learn to recognize and write ideomatic Python
 
 ## Short Term Tasks
-- [ ] Try using Sphero with Python
 - [ ] [Read the specifications](http://chimera.labs.oreilly.com/books/1234000001813/ch02.html#solution_id1) for Clojure
 - [ ] Use better dotfiles https://dotfiles.github.io/
 - [ ] Try [Purely Functional tv](http://www.purelyfunctional.tv/)
@@ -56,7 +48,6 @@ http://blog.mattgauger.com/blog/2014/09/15/clojure-code-quality-tools/
 - [ ] Read Test Driven Development with Python
 - [ ] Read Fluent Python
 - [ ] Read Unix Power Tools
-- [x] Read Apprenticeship Patterns
 - [ ] Read Practical Vim
 - [ ] Read Docker Up & Running
 - [ ] Read Release It!
@@ -76,7 +67,6 @@ http://blog.mattgauger.com/blog/2014/09/15/clojure-code-quality-tools/
 - [ ] Speak at a conference
 - [ ] Hunt and devour "ugly frogs"
 - [ ] Attend technical conferences
-- [x] Read 10 non-fiction books
 - [ ] Read 75 books
 - [ ] Read more code
 - [ ] Keep my resume up to date
