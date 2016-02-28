@@ -49,14 +49,14 @@ Personal Goals
 http://blog.mattgauger.com/blog/2014/09/15/clojure-code-quality-tools/
 - [ ] Write Concatenation does not mean "with cats"
 
-## 2016 Reading List (1 Complete)
+## 2016 Reading List (2 Complete)
 
 - [ ] Read Living Clojure
 - [ ] Read Clojure for the brave and true
 - [ ] Read Test Driven Development with Python
 - [ ] Read Fluent Python
 - [ ] Read Unix Power Tools
-- [ ] Read Apprenticeship Patterns
+- [x] Read Apprenticeship Patterns
 - [ ] Read Practical Vim
 - [ ] Read Docker Up & Running
 - [ ] Read Release It!
