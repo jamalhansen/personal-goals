@@ -18,7 +18,7 @@ Personal Goals
 - [x] Make Alamo Code Hangout for LPTHW Chapters 3 & 4
 - [x] Stream 4clojure.com practice to livecoding.tv
 - [x] Read Chapters 1 - 3 Clojure for the Brave and True
-- [ ] Send invites to upcoming Adelante Data Analytics meetings
+- [x] Send invites to upcoming Adelante Data Analytics meetings
 - [ ] Prepare materials for Adelante Data Analytics meeting 1
 
 ## Next Week
@@ -65,7 +65,7 @@ http://blog.mattgauger.com/blog/2014/09/15/clojure-code-quality-tools/
 - [ ] Read [How to make sense of any mess](http://www.howtomakesenseofanymess.com/)
 - [ ] Figure out how to run a windows virtual box http://itsfoss.com/install-windows-10-virtualbox-linux/
 
-## [2016 Goals](https://workflowy.com) (0 Complete)
+## [2016 Goals](https://workflowy.com) (1 Complete)
 - [ ] Publish CodeNewbie Challenges
 - [ ] Contribute to open source projects
 - [ ] Transition from walking to running
@@ -76,7 +76,7 @@ http://blog.mattgauger.com/blog/2014/09/15/clojure-code-quality-tools/
 - [ ] Speak at a conference
 - [ ] Hunt and devour "ugly frogs"
 - [ ] Attend technical conferences
-- [ ] Read 10 non-fiction books
+- [x] Read 10 non-fiction books
 - [ ] Read 75 books
 - [ ] Read more code
 - [ ] Keep my resume up to date
