@@ -41,6 +41,7 @@ Personal Goals
 - [ ] Read about Clojure code quality tools
 http://blog.mattgauger.com/blog/2014/09/15/clojure-code-quality-tools/
 - [ ] Write Concatenation does not mean "with cats"
+- [ ] Read .Net with Linux http://midnightprogrammer.net/post/Getting-Started-With-ASPNET-5-On-Ubuntu/ or http://blog.tonysneed.com/2015/05/25/develop-and-deploy-asp-net-5-apps-on-linux/
 
 ## 2016 Reading List (2 Complete)
 
