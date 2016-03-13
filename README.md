@@ -5,14 +5,14 @@ Personal Goals
 - [ ] Complete Calculations in Clojure
 - [ ] Research one item from my list of things I am ignorant about
 - [ ] Write 2 CodeNewbie Challenges
-- [ ] Prepare talk for next Alamo Code
+- [x] Prepare talk for next Alamo Code
 - [ ] Look into west side Alamo Code meetup
 - [x] Read Apprenticeship Patterns Chapter 6
 - [ ] Complete a week of exercises in Living Clojure
 - [ ] Have an Alamo Code Hangout
 - [ ] Post next CodeNewbie Challenge
 - [x] Prepare materials for Adelante Data Analytics meeting 1
-- [ ] Prepare materials for Adelante Data Analytics meeting 2
+- [x] Prepare materials for Adelante Data Analytics meeting 2
 - [x] Try using Sphero with Python
 
 ## Next Week
