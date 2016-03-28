@@ -2,14 +2,14 @@ Side Projects and Cool Stuff To Check Out
 ==============
 
 ## Project Ideas
-- [ ] Write up a summary of Code Newbie Challenges
+- [x] Write up a summary of Code Newbie Challenges
 - [ ] Look into a game to explore and learn the file system
-- [ ] Update pg/reset.py to move new README into place
-- [ ] Update pg/reset.py to move checked items to the Accomplishments folder
+- [x] Update pg/reset.py to move new README into place
+- [x] Update pg/reset.py to move checked items to the Accomplishments folder
 
 ## Random Ideas
-- [ ] Living Clojure painting
-- [ ] Python Thursday painting
+- [x] Living Clojure painting
+- [x] Python Thursday painting
 - [ ] Daily 3x5 for Clojure, Python & Ruby
 - [ ] Creative Programmer career track
 
