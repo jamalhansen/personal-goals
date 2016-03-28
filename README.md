@@ -4,21 +4,21 @@ Personal Goals
 ## To Do This Week
 - [ ] Complete Calculations in Clojure
 - [ ] Research one item from my list of things I am ignorant about
-- [ ] Write 2 CodeNewbie Challenges
 - [x] Prepare talk for next Alamo Code
 - [ ] Look into west side Alamo Code meetup
 - [x] Read Apprenticeship Patterns Chapter 6
 - [ ] Complete a week of exercises in Living Clojure
-- [ ] Have an Alamo Code Hangout
-- [ ] Post next CodeNewbie Challenge
+- [x] Post next CodeNewbie Challenge
 - [x] Prepare materials for Adelante Data Analytics meeting 1
 - [x] Prepare materials for Adelante Data Analytics meeting 2
 - [x] Try using Sphero with Python
+- [x] Post sphero article
+- [x] Demo sphero at Alamo Code
+- [x] Transition into my new job 
+- [x] Attend San Antonio Maker Faire
 
 ## Next Week
 - [ ] Create seven 3x5s
-- [ ] Write 2 CodeNewbie Challenges
-- [ ] Have an Alamo Code Hangout
 - [ ] Have an Exploring Clojure Hangout
 - [ ] Submit a conf talk to http://abstractions.io
 - [ ] Run for a portion of every walk this week
