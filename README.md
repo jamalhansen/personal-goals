@@ -4,17 +4,11 @@ Personal Goals
 ## To Do This Week
 - [ ] Complete Calculations in Clojure
 - [ ] Research one item from my list of things I am ignorant about
-- [ ] Write 2 CodeNewbie Challenges
-- [ ] Prepare talk for next Alamo Code
 - [ ] Look into west side Alamo Code meetup
 - [ ] Complete a week of exercises in Living Clojure
-- [ ] Have an Alamo Code Hangout
-- [ ] Prepare materials for Adelante Data Analytics meeting 2
 
 ## Next Week
 - [ ] Create seven 3x5s
-- [ ] Write 2 CodeNewbie Challenges
-- [ ] Have an Alamo Code Hangout
 - [ ] Have an Exploring Clojure Hangout
 - [ ] Submit a conf talk to http://abstractions.io
 - [ ] Run for a portion of every walk this week
