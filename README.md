@@ -5,13 +5,12 @@ Personal Goals
 - [ ] Complete Calculations in Clojure
 - [ ] Research one item from my list of things I am ignorant about
 - [ ] Look into west side Alamo Code meetup
-- [ ] Complete a week of exercises in Living Clojure
+- [ ] Have an Exploring Clojure Hangout
+- [ ] Run for a portion of every walk this week
+- [x] Complete slides for You don't know JS Book 3 Chapters 1 & 2
+- [ ] Hike Eisenhauer Park
 
 ## Next Week
-- [ ] Create seven 3x5s
-- [ ] Have an Exploring Clojure Hangout
-- [ ] Submit a conf talk to http://abstractions.io
-- [ ] Run for a portion of every walk this week
 
 ## [Expose My Ignorance](http://jamalhansen.com/exposing-my-ignorance.html) (0 Educated)
 - [ ] I need to learn to handle Unicode
