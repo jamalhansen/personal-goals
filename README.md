@@ -6,9 +6,9 @@ Personal Goals
 - [ ] Research one item from my list of things I am ignorant about
 - [ ] Look into west side Alamo Code meetup
 - [ ] Have an Exploring Clojure Hangout
-- [ ] Run for a portion of every walk this week
+- [x] Run for a portion of every walk this week
 - [x] Complete slides for You don't know JS Book 3 Chapters 1 & 2
-- [ ] Hike Eisenhauer Park
+- [x] Hike Eisenhauer Park
 
 ## Next Week
 
